@@ -1,6 +1,6 @@
 # Summary
 
-* [20171120](README.md)
+* [Introduction](README.md)
 * [20171121](chapters/20171121.md)
 * [20171122](chapters/20171122.md)
 * [20171123](chapters/20171123.md)
@@ -18,4 +18,3 @@
 * [20171205](chapters/20171205.md)
 * [20171206](chapters/20171206.md)
 * [20171207](chapters/20171207.md)
-
