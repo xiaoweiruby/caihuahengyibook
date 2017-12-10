@@ -80,4 +80,8 @@
 - Git + Github + GitPages + Gitbook + Jekyll + Markdown
 - 完成一张技术极客的课程图片
 - 重点在查看Jekyll和hexo的技术文档
+- 参加星云链区块链分享项目
+- gifto、Nebulas
+
+
 ---
