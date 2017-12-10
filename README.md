@@ -82,6 +82,7 @@
 - 重点在查看Jekyll和hexo的技术文档
 - 参加星云链区块链分享项目
 - gifto、Nebulas
+- 修改caihuahengyi的README，构建产品思路大纲
 
 
 ---
