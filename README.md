@@ -73,3 +73,11 @@
 - 完成一张全新的问候模板撰写
 - github的设计图片仓库构建优化完成，重点在README的图片的展示上；
 - https://github.com/shenzhoudance/caihuahengyiIMG
+---
+# 20171210
+**肖威完成工作**
+- 技术极客的课程框架搭建
+- Git + Github + GitPages + Gitbook + Jekyll + Markdown
+- 完成一张技术极客的课程图片
+- 重点在查看Jekyll和hexo的技术文档
+---
