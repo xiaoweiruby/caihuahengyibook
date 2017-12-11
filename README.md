@@ -90,3 +90,7 @@
 - 上午主要在完成门徒计划的大纲思考，制作一张门徒计划的宣传图；
 - 下午一直在完成阿里云的云端的部署的环境的搭建，在vi上面不清晰；
 - https://www.cnblogs.com/itech/archive/2009/04/17/1438439.html
+
+**张家琛完成工作**
+- 完成阿里云部署
+- 增加postlist的crud，其中postlist#create 遇到问题
