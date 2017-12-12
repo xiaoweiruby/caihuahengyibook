@@ -111,3 +111,8 @@
 **杨吉堂完成的工作**
 - 更改posts／index布局
 - 更改logo
+
+**张家琛完成工作**
+- 部署公司网站
+- 在解决postlist#create不能跳转到post_postlist_path的问题（解决中）
+- 看rails101寻找解决问题的原因，有启发。http://zhang-jia-chen-blog.logdown.com/posts/4441763-12-12-problems-encountered
