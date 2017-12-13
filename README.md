@@ -116,3 +116,10 @@
 - 部署公司网站
 - 在解决postlist#create不能跳转到post_postlist_path的问题（解决中）
 - 看rails101寻找解决问题的原因，有启发。http://zhang-jia-chen-blog.logdown.com/posts/4441763-12-12-problems-encountered
+
+2017年12月13日 张家琛
+
+完成welcome#index 问答·就业·活动 功能 ✓
+发现一种新的用github 协作方式 ✓
+增加终端增加stree命令 ✓
+给网站做seo优化 未完成
