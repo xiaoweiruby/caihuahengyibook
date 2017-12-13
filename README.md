@@ -101,13 +101,12 @@
 - 完成阿里云部署
 - 增加postlist的crud，其中postlist#create 遇到问题
 
-# 20171211
+# 20171212
 **肖威完成工作**
 - （1）完成百度页面的收录
 - （2）完成对于36kr峰会的思考
 - （3）完成阿里云debug的排除
 
-# 20171212
 **杨吉堂完成的工作**
 - 更改posts／index布局
 - 更改logo
@@ -116,18 +115,22 @@
 - 部署公司网站
 - 在解决postlist#create不能跳转到post_postlist_path的问题（解决中）
 - 看rails101寻找解决问题的原因，有启发。http://zhang-jia-chen-blog.logdown.com/posts/4441763-12-12-problems-encountered
-
-2017年12月13日 张家琛
-
-完成welcome#index 问答·就业·活动 功能 ✓
-发现一种新的用github 协作方式 ✓
-增加终端增加stree命令 ✓
-给网站做seo优化 未完成
-
-
 ---
-## 2017年12月13日 杨吉堂
+# 2017年12月13日
+**张家琛完成工作**
+- 完成welcome#index 问答·就业·活动 功能 ✓
+- 发现一种新的用github 协作方式 ✓
+- 增加终端增加stree命令 ✓
+- 给网站做seo优化 未完成
+
+**杨吉堂完成工作**
 - 阿里云部署实做
 - 更改posts／show的布局
 - 更改logo
 - github协作探讨
+
+**肖威完成工作**
+- 11月份财务的对接
+- AI人工智能会场查看
+- 阿里云部署Nigxn完成，在新建测试错误，完成github项目部署未完成；
+---
