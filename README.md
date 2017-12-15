@@ -146,3 +146,8 @@
 **杨吉堂完成工作**
 - welcome／index favicon更改（bug未解决）
 - 传智播客前端开发css教程学习
+
+# 2017年12月15日
+**杨吉堂完成工作**
+- 增加emloyments/index.htmt里图标栏位
+- 前端开发css教程学习
