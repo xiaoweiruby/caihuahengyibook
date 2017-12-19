@@ -202,3 +202,8 @@
 - (2)中午到国家会展中心看了一下阿里的云栖·飞天大会
 - (3)下午主要完成支付宝的接口的申请
 - (4)通过ruby-china看到三个关键词（Gitlab、BearyChat、Zeplin）
+
+**杨吉堂完成工作**
+- 修改footer链接
+- activities/index 增加条幅
+- 学习css页面美化教程
