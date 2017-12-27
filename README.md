@@ -269,3 +269,10 @@
 **杨吉堂工作总结**
 - 了解微信公众号运营相关操作
 - 查看编辑器文档
+---
+# 2017年12月27日
+**肖威工作总结**
+- 撰写思考文章：明确公司、产品、销售的定义
+- 查看支付宝支付和微信支付的实现的方法
+- 参考书籍：https://rails-practice.com/content/Chapter_5/5.2.html
+- 参考代码：https://github.com/liwei78/rails-practice-code
