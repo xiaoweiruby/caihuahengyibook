@@ -278,6 +278,12 @@
 - 参考代码：https://github.com/liwei78/rails-practice-code
 
 
+
 **杨吉堂工作总结**
 - 增加活动页面栏位
 - 查看编辑器文档
+
+**张家琛工作总结**
+- 了解天气api查询过程并进行实验。
+- 查询到了一个可以做markdown的博客，过程介绍的详细。
+http://otischou.tw/2014/10/23/markdown-in-rails.html
