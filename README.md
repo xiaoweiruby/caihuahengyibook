@@ -276,3 +276,8 @@
 - 查看支付宝支付和微信支付的实现的方法
 - 参考书籍：https://rails-practice.com/content/Chapter_5/5.2.html
 - 参考代码：https://github.com/liwei78/rails-practice-code
+
+**张家琛工作总结**
+- 了解天气api查询过程并进行实验。
+- 查询到了一个可以做markdown的博客，过程介绍的详细。
+http://otischou.tw/2014/10/23/markdown-in-rails.html
