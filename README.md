@@ -299,3 +299,10 @@ http://otischou.tw/2014/10/23/markdown-in-rails.html
 - 增加就业内容栏位
 - 更改latout的head设置
 - 查看全栈营编辑器文档
+
+**肖威工作总结**
+- 查看支付文档
+- 试验支付文档
+
+
+---
