@@ -293,3 +293,9 @@ http://otischou.tw/2014/10/23/markdown-in-rails.html
 - 交接部署工作
 - 分析天气API的细节，写成博客
 - 查找编辑器文档
+
+
+**杨吉堂工作总结**
+- 增加就业内容栏位
+- 更改latout的head设置
+- 查看全栈营编辑器文档
