@@ -310,3 +310,8 @@ http://otischou.tw/2014/10/23/markdown-in-rails.html
 **张家琛工作总结**
 - 查看支付宝开发文档
 - 公司发布会视频录制
+
+**杨吉堂工作总结**
+- 在employments/inde增加招聘公司超链接
+- 更改并增加首页轮播图
+- 学习Rails实战之B2C商城开发
