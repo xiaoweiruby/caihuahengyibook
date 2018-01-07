@@ -401,4 +401,9 @@ Part5:【17：30-18：00】全体合影
 - 思考服务号产品逻辑
 - 推荐颜色工具（非常棒）：
 - http://flatuicolors.com/
+- neact-Native的学习资料参考
+- http://www.zhufengpeixun.cn/videoCourse/reactnative.html
+- https://www.jianshu.com/u/023338566ca5
+- https://hydrographer-vivian-23728.netlify.com/ReactNative介绍.html
+- https://github.com/reactnativecn/react-native-guide
 ---
