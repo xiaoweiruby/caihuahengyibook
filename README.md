@@ -397,7 +397,11 @@ Part5:【17：30-18：00】全体合影
 # 2018年01月07日
 **肖威工作总结**
 - 思考pc网页的逻辑
-- https://buzzorange.com/techorange/2017/12/15/tuanyuannuts-samuel-to-talk-note/
+- 网页加视频：https://buzzorange.com/techorange/2017/12/15/tuanyuannuts-samuel-to-talk-note/
 - 思考ios产品逻辑
+- React Native Tutorial - Create And Design An E-commerce App
+https://www.youtube.com/watch?v=tzf0uQ0Yyac
+- Farid Safi：在30分钟内构建一个React Native聊天应用程序
+https://www.youtube.com/watch?v=VTnFDc3IFag
 - 思考服务号产品逻辑
 ---
