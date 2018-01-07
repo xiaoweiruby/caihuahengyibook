@@ -393,3 +393,11 @@ Part5:【17：30-18：00】全体合影
 - 解决安卓的问题
 - 查看react-native的开发的过程
 - 思考移动开发的逻辑体系（感觉这个体系才是最重要的，其他的仅仅是一个功能的实现）
+
+# 2018年01月07日
+**肖威工作总结**
+- 思考pc网页的逻辑
+- https://buzzorange.com/techorange/2017/12/15/tuanyuannuts-samuel-to-talk-note/
+- 思考ios产品逻辑
+- 思考服务号产品逻辑
+---
