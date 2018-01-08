@@ -407,8 +407,15 @@ Part5:【17：30-18：00】全体合影
 - https://hydrographer-vivian-23728.netlify.com/ReactNative介绍.html
 - https://github.com/reactnativecn/react-native-guide
 ---
+
 # 2018年01月08日
 **张家琛工作总结**
 - 成功调试iOS端helloworld页面 https://reactnative.cn/docs/0.51/tutorial.html#content
 - 了解Props（属性）的应用并调试 https://reactnative.cn/docs/0.51/props.html#content
 - 了解State（状态）的应用并调试 https://reactnative.cn/docs/0.51/state.html#content
+
+
+**杨吉堂工作总结**
+- 更换首页图片及增加超链接
+- gitbook实作
+- 首页视频插入
