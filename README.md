@@ -407,3 +407,9 @@ Part5:【17：30-18：00】全体合影
 - https://hydrographer-vivian-23728.netlify.com/ReactNative介绍.html
 - https://github.com/reactnativecn/react-native-guide
 ---
+
+# 2018年01月08日
+**杨吉堂工作总结**
+- 更换首页图片及增加超链接
+- gitbook实作
+- 首页视频插入
