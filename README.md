@@ -414,8 +414,12 @@ Part5:【17：30-18：00】全体合影
 - 了解Props（属性）的应用并调试 https://reactnative.cn/docs/0.51/props.html#content
 - 了解State（状态）的应用并调试 https://reactnative.cn/docs/0.51/state.html#content
 
-
 **杨吉堂工作总结**
 - 更换首页图片及增加超链接
 - gitbook实作
 - 首页视频插入
+
+**肖威工作总结**
+- 上午：完成后续工作的部署
+- 下午：财务发票的对接+远程员工的面试+中城卫合同的邮寄
+- 晚上：解决代码冲突问题+思考公司未来的发展
