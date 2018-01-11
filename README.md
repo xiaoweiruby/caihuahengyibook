@@ -473,14 +473,9 @@ Part5:【17：30-18：00】全体合影
 - 下午：召开第三次工作会议+教授员工markdown和使用
 - 晚上：查看React-native的技术文档
 
-
-**田文艺工作总结**
- - 上午：核对音频、文字，制作凹脑图，完成排版
- - 下午：学习《投资人说》排版 修改推送格式
-
-**杨吉堂工作总结**
-- 创建服务号小程序
-- 开通小程序微信支付
-- 会议纪要整理
-- 慕课网教程学习
-
+**张家琛工作总结**
+- atom markdown预览
+- 学习react-native 官方网站 https://facebook.github.io/react-native/docs/style.html
+Height and Width
+Layout with Flexbox
+- 在英文官网学习有一个很大的好处，可以一边编程，一边看到实时效果。
