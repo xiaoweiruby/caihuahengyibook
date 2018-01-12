@@ -509,3 +509,8 @@ Layout with Flexbox
 - 小程序教程学习
 - 小程序首页视图与渲染
 - 会议纪要整理
+
+**张家琛工作总结**
+- 学习react-native
+  Handling Text Input
+- 学习ruby tutorial
