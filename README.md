@@ -510,6 +510,13 @@ Layout with Flexbox
 - 小程序首页视图与渲染
 - 会议纪要整理
 
+
 **田文艺工作总结**
  - 完成推送内容编辑
  - 学习、熟悉墨刀工具
+
+**张家琛工作总结**
+- 学习react-native
+  Handling Text Input
+- 学习ruby tutorial
+
