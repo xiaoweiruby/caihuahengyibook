@@ -627,3 +627,19 @@ Layout with Flexbox
 - 上午：阅读郑伊廷OTCBTC的成长案例+思考后续的产品的打造
 - 下午：撰写公司心得+查看李笑来bigone+查看图书专案的案例
 - 晚上：思考人生的生命的发展线
+
+*郑伊廷的生命发展：* 2008 年 26 岁 （2013年30岁）
+1978-2007 文化大學應用數學系毕业+高校调代码
+>1988-2014 江西师范大学毕业（2014 年 26 岁）
+
+2007-2012 T 客邦技术部经理、HTC 资深经理、RocoDev 創辦人、Facebook Hackathon 世界首獎
+（27歲即擔任宏達電資深經理，目前擔任RocoDev網站設計公司的執行長）
+>2014-2017 神洲舞蹈学校副校长 （2017 年 29 岁）
+
+2012-2016 Logdown 創辦人+Rails Taiwan / RailsPacific Conf Organizer+GrowthSchool 創辦人
+ (Rails Pacific 2014 籌辦祕辛與心得)（日志+大会+学校）
+ >2017-2018 才华横溢创办人 （2018 年 30 岁）
+ caihuahengyi.cn，dongnishijian.com，
+
+2016-2018 全站营+ICO+OTCBTC
+ >2018-2020 才华基金 创办人 （2020 年 32 岁）
