@@ -719,4 +719,4 @@ Layout with Flexbox
 
  - 第三段人生：投资自己的事业
 
-  >2017-2018 46 岁 投资：成为INB投资合伙人（云币网+ICO.info+Big.one+fix.com)
+  >2017-2018 46 岁 投资：成为INB投资合伙人（云币网+ICO.info+Big.one+fix.one)
