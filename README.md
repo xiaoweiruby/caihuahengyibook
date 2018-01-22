@@ -679,9 +679,7 @@ Layout with Flexbox
 
  >2011-2018 68 岁 顾问：静思
 
- 思考one域名购买的问题
- http://www.quyu.net/domainchecker.php
- 感觉有些不靠谱，如果可以问问李笑来，就方便了；
+
 
 **杨吉堂工作总结**
 - 学习build a Book Review App - Part 1～2
@@ -698,3 +696,7 @@ Layout with Flexbox
  - 下午：下载Pr,学会下载YouTube视频
 
  ---
+# 2018年01月23日
+ - 上午：完成工作任务部署+整理2014-2018创业心得上传 Github
+ - 下午：查看网页端代码实现逻辑+查看移动端代码实现逻辑
+ - 晚午：阅读思想书籍+阅读技术书籍（提升思维和技能能力）
