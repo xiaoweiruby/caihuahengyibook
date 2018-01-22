@@ -656,3 +656,7 @@ Layout with Flexbox
 - 上午：网页开发部署+内容营销教学+移动开发思考
 - 下午：如诗薪酬发放+指导文艺完成内容制作
 - 晚上：思考销售方法+提升编程技术
+
+**杨吉堂工作总结*
+- 学习build a Book Review App - Part 1～2
+- 懂你时间welxome首页制作
