@@ -658,6 +658,11 @@ Layout with Flexbox
 - 晚上：思考销售方法+提升编程技术
 
 
+**杨吉堂工作总结*
+- 学习build a Book Review App - Part 1～2
+- 懂你时间welxome首页制作
+
+
 **张家琛工作内容**
 - 生成welcome页面  
 - 修改根目录 
@@ -666,4 +671,5 @@ Layout with Flexbox
 **田文艺工作总结**
  - 上午：微信内容编辑推送
  - 下午：下载Pr,学会下载YouTube视频
+
 
