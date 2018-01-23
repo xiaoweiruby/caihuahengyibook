@@ -737,6 +737,15 @@ def change
 end
 
 
+
 **田文艺工作总结**
 - 上午：微信内容编辑推送
 - 下午：学习Premiere基本操作
+
+
+
+
+**杨吉堂工作总结**
+- 学习build a Book Review App - Part 3～4
+- 实做完成build a Book Review App - Part 1
+
