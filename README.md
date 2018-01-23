@@ -736,3 +736,8 @@ def change
               (表)    (表的字段)(字段的数据类型)(数据类型的默认值)
 end
 ```
+
+
+**杨吉堂工作总结**
+- 学习build a Book Review App - Part 3～4
+- 实做完成build a Book Review App - Part 1
