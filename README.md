@@ -727,29 +727,24 @@ Layout with Flexbox
 - 实作product mvc crud
 - 了解支付逻辑
 
-> - 将环境设置成开发环境`bin/rails db:environment:set RAILS_ENV=development`
-> - 创建移植 只能用`rails g migration *****`然后`rake db:migrate`
-```
-migration的格式为
-def change
-  add_colloum :users, :is_vip, :boolean, default: false
-              (表)    (表的字段)(字段的数据类型)(数据类型的默认值)
-end
-
-
 
 **田文艺工作总结**
 - 上午：微信内容编辑推送
 - 下午：学习Premiere基本操作
 
 
-
-
 **杨吉堂工作总结**
 - 学习build a Book Review App - Part 3～4
 - 实做完成build a Book Review App - Par
+
+---
 
 # 20180124
 **田文艺工作总结**
  - 上午：微信内容编辑推送 Pr学习
  - 下午：参加今日头条新媒体运营沙龙
+
+ **肖威工作总结**
+ - 上午：整理 《世界纵横》的文稿
+ - 下午：参加 微软加速器 第10期 公司展示（提交加速申请）+ 整理《知识赋能》的文稿 + 优化 Github 上 履历 的优化；
+ - 晚上：整理 《增量》 和 《逆袭》文稿 Github 的上传 + 查看前端代码的优化和后端功能开发的逻辑
