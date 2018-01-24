@@ -747,5 +747,9 @@ end
 
 **杨吉堂工作总结**
 - 学习build a Book Review App - Part 3～4
-- 实做完成build a Book Review App - Part 1
+- 实做完成build a Book Review App - Par
 
+# 20180124
+**田文艺工作总结**
+ - 上午：微信内容编辑推送 Pr学习
+ - 下午：参加今日头条新媒体运营沙龙
