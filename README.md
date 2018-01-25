@@ -790,5 +790,5 @@ Layout with Flexbox
 
  **杨吉堂工作总结**
  - 优化懂你时间welcome页面
- - 增加登陆功能
+ - 增加懂你时间登陆功能
  - 学习build a Book Review App - Part 3
