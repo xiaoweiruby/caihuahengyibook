@@ -818,3 +818,11 @@ Layout with Flexbox
   - 上午：完成前端welcome的页面布局梳理+动态数据呈现的梳理；
   - 下午：查看modle结构下的control中的views的原理，使用root完成支付功能的实现；
   - 晚上：完成heroku的专案的部署和阿里云的部署，熟悉专案的部署流程体系；
+
+
+  # 2018年1月26日
+**杨吉堂工作总结**
+- 增加bootstrap flash 功能、安装simpleform with bootstrap、font-awesome-rails
+- 实作后台CRUD
+- 建立管理后台
+- 增加商品详情栏位
