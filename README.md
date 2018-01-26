@@ -831,7 +831,21 @@ Layout with Flexbox
   - 下午：查看modle结构下的control中的views的原理，使用root完成支付功能的实现；
   - 晚上：完成heroku的专案的部署和阿里云的部署，熟悉专案的部署流程体系；
 
+
   **张家琛工作总结**
   - 上午：支付逻辑梳理 上午精力充沛，时间拿来攻坚克难最合适
 
   - 下午：1.product_list new,show,edit的html页面；ProductList不能新建一笔资料
+
+
+  **田文艺工作总结**
+   - 上午：微信推送
+   - 下午：加视频字幕
+
+
+**杨吉堂工作总结**
+- 增加bootstrap flash 功能、安装simpleform with bootstrap、font-awesome-rails
+- 实作后台CRUD
+- 建立管理后台
+- 增加商品详情栏位
+
