@@ -866,3 +866,11 @@ Layout with Flexbox
   - 上午：完成用户和评论功能，思考静态布局和动态数据输出；
   - 下午：增加图片、搜索功能，思考支付结构;
   - 晚上：完成herou的项目的部署
+
+  **张家琛工作总结**
+  - 解决ProductList在rails c里面不能create的问题
+  - 给product页面添加链接出现bug还未找到解决办法
+  ```
+  在model里面去掉belongs_to
+  重启rails c
+  ```
