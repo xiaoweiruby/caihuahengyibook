@@ -868,7 +868,17 @@ Layout with Flexbox
   - 下午：增加图片、搜索功能，思考支付结构;
   - 晚上：完成herou的项目的部署
 
+
+  **张家琛工作总结**
+  - 解决ProductList在rails c里面不能create的问题
+  - 给product页面添加链接出现bug还未找到解决办法
+  ```
+  在model里面去掉belongs_to
+  重启rails c
+  ```
+
   **田文艺工作总结**
    - 上午完成微信内容编辑推送
    - 下午寻找解决VPN上网方法（未完成） 梳理Xdite分享文章
+
 
