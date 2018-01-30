@@ -883,3 +883,8 @@ Layout with Flexbox
 
    **杨吉堂工作总结**
    - 增加产品的用户的评论功能
+
+   # 2018年1月30日
+  **张家琛工作总结**
+  - 解决bug product_list路径问题
+  - 完成product_list细节
