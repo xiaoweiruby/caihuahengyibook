@@ -957,4 +957,6 @@ Layout with Flexbox
    2017-2018年，2年，ico.info, OTCBTC.com。
    https://otcbtc.com
 
-   ---
+   **田文艺工作总结**
+    - 上午：微信内容编辑推送
+    - 下午：修改pr中视频字幕问题
