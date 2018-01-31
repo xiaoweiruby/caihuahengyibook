@@ -957,7 +957,12 @@ Layout with Flexbox
    2017-2018年，2年，ico.info, OTCBTC.com。
    https://otcbtc.com
 
+
    ---
 
    **张家琛工作总结**
    - 学习蛋人网支付视频
+
+   **田文艺工作总结**
+    - 上午：微信内容编辑推送
+    - 下午：修改pr中视频字幕问题
