@@ -911,7 +911,7 @@ Layout with Flexbox
  - 上午：梳理雷军成长线+整理用户的逻辑体系
  - 下午：添加管理员用户的后台和前台的逻辑
  - 晚上：产品放入购物车形成支付，然后完成产品的部署；
-
+```
  **小米科技 雷军的财富人生**
 
  1990 求学 1991 创业 1992 就业 2007 上市 2010 投资 2011 打造小米
@@ -939,15 +939,21 @@ Layout with Flexbox
    >2010-2018 49 岁 小米科技
 
 ```
+
    xdite · 发布于 2016年06月16日
    1978-2006 文化大學應用數學系毕业+高校调代码
    http://crssam.pccu.edu.tw
+
    2006-2012年，6年．我中間還有做很多網站，LOGDOWN 算是覺得最個人產品的一個。
    http://logdown.com
+
    2012-2016年，4年，GROWTHSCHOOL，《增长黑客这样做》出版。
    http://www.growthschool.com
+
    2016-2017年，全栈营。
    https://fullstack.xinshengdaxue.com
+
    2017-2018年，ico.info, OTCBTC.com。
    https://otcbtc.com
-```
+
+   ---
