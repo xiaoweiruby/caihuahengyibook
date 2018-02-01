@@ -1056,3 +1056,7 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
  - 下午：整理郑伊廷2017年的facebook有价值的文章；
 
  - 晚上：查看编程的体系维度；
+
+ **田文艺工作总结**
+  - 上午：微信内容运营
+  - 下午：完成对同事的评价 制作运营图片 阅读Rexy Tseng的分享文章
