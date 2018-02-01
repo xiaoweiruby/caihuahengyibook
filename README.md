@@ -1084,3 +1084,15 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
 
    **杨吉堂工作总结**
    - 整理工作日志及撰写月末总结
+
+# 2018年02月01日
+
+ **肖威工作总结**
+ - 上午：谈论公司的维度+整理郑伊廷2016年的facebook有价值的文章；
+
+ 推荐一篇文章：我在矽谷的那些日子 : Sifteo
+ http://rexytseng.com/posts/sf-days
+
+ - 下午：整理郑伊廷2017年的facebook有价值的文章；
+
+ - 晚上：查看编程的体系维度；
