@@ -1014,16 +1014,6 @@ Layout with Flexbox
    2006-2012年，6年．我中間還有做很多網站，LOGDOWN 算是覺得最個人產品的一個。
    http://logdown.com
 
-   2008年5月 ·在 Handlino Inc. 开始了新工作  ·
-
-   2009 在痞客邦开始了新工作
-
-   2010年8月 从城邦文化事業/PC home 電腦家庭出版集團离职
-
-   2010年8月 在 HTC Corporation 开始了新工作
-
-   2011年3月 在 T客邦开始了新工作
-
    2012-2016年，4年，GROWTHSCHOOL，《增长黑客这样做》出版。
    http://www.growthschool.com
 
