@@ -1093,6 +1093,9 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
  推荐一篇文章：我在矽谷的那些日子 : Sifteo
  http://rexytseng.com/posts/sf-days
 
+ 給尚未大學畢業的朋友的幾個人生建議 - 挑戰未來篇
+ http://blog.xdite.net/posts/2012/10/26/another-advice-for-undergraduate
+
  - 下午：整理郑伊廷2017年的facebook有价值的文章；
 
  - 晚上：查看编程的体系维度；
