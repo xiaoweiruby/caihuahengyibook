@@ -1080,3 +1080,9 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
  **田文艺工作总结**
   - 上午：微信内容运营
   - 下午：完成对同事的评价 制作运营图片 阅读Rexy Tseng的分享文章
+
+  **张家琛工作总结**
+  - 支付功能梳理 有一个好的梳理方式：按照视频一步一步对照着专案里的代码写好注释，整理成博客。
+  - 文章阅读：我在矽谷的那些日子 : Sifteo
+  http://rexytseng.com/posts/sf-days
+  - 为同事杨吉堂写评价
