@@ -1096,3 +1096,10 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
  - 下午：整理郑伊廷2017年的facebook有价值的文章；
 
  - 晚上：查看编程的体系维度；
+
+
+  **杨吉堂工作总结**
+  - 整理工作日志
+  - 撰写月总结
+  - 写两位朋友的评价
+  - 生成一个简单项目
