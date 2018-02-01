@@ -1077,6 +1077,14 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
 
  - 晚上：查看编程的体系维度；
 
+
+
+  **杨吉堂工作总结**
+  - 整理工作日志
+  - 撰写月总结
+  - 写两位朋友的评价
+  - 生成一个简单项目
+
  **田文艺工作总结**
   - 上午：微信内容运营
   - 下午：完成对同事的评价 制作运营图片 阅读Rexy Tseng的分享文章
@@ -1086,3 +1094,4 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
   - 文章阅读：我在矽谷的那些日子 : Sifteo
   http://rexytseng.com/posts/sf-days
   - 为同事杨吉堂写评价
+
