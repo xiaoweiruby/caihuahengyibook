@@ -1076,8 +1076,26 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
  http://redmine.growthschool.com/projects
 
  - 晚上：查看编程的体系维度；
+一个数据化网站
+https://www.metabase.com/
+BlitzScaling闪电式扩张
+https://xdite.gitbooks.io/blitzscaling/content/
+
+全栈营开办时间：
+第一期：2016年07月25日-2016年09月15日 20人
+全栈营开办时间：
+第二期：2016年10月25日-2016年12月15日 20人
+全栈营开办时间：
+第三期：2017年01月03日-2017年03月31日 300人
+全栈营开办时间：
+第四期：2017年04月03日-2017年06月30日 300人
+
+ico.info   发布会：2017年07月16日-2017年09月09日（大陆公司）
+otcbtc.com 发布会：2017年10月26日-2018年02月01日（台湾公司）
 
 
+
+---
 
   **杨吉堂工作总结**
   - 整理工作日志
@@ -1094,4 +1112,3 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
   - 文章阅读：我在矽谷的那些日子 : Sifteo
   http://rexytseng.com/posts/sf-days
   - 为同事杨吉堂写评价
-
