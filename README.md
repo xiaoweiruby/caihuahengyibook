@@ -1053,7 +1053,27 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
  給尚未大學畢業的朋友的幾個人生建議 - 挑戰未來篇
  http://blog.xdite.net/posts/2012/10/26/another-advice-for-undergraduate
 
+ 「你必須很努力，才能看起來毫不費力」，我曾經付出過的，你給不起
+ https://www.thenewslens.com/article/73656
+
  - 下午：整理郑伊廷2017年的facebook有价值的文章；
+
+ markdown接入
+ http://linzhewei-blog.logdown.com/posts/1203188
+ http://www.rubydoc.info/gems/simplemde-rails/1.10.2
+
+ Ruby on Rails 基本主義
+ https://medium.com/@juanitofatas/ruby-on-rails-%E5%9F%BA%E6%9C%AC%E4%B8%BB%E7%BE%A9-f4cde39292a4
+
+ 会员加V方法；
+ http://lanxinn-blog.logdown.com/posts/842851
+
+ 8月29日 老徐说的话真有用
+ http://lanxinn-blog.logdown.com/posts/816339
+
+ 敏捷开发流程图：
+
+ http://redmine.growthschool.com/projects
 
  - 晚上：查看编程的体系维度；
 
