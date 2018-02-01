@@ -1014,16 +1014,6 @@ Layout with Flexbox
    2006-2012年，6年．我中間還有做很多網站，LOGDOWN 算是覺得最個人產品的一個。
    http://logdown.com
 
-   2008年5月 ·在 Handlino Inc. 开始了新工作  ·
-
-   2009 在痞客邦开始了新工作
-
-   2010年8月 从城邦文化事業/PC home 電腦家庭出版集團离职
-
-   2010年8月 在 HTC Corporation 开始了新工作
-
-   2011年3月 在 T客邦开始了新工作
-
    2012-2016年，4年，GROWTHSCHOOL，《增长黑客这样做》出版。
    http://www.growthschool.com
 
@@ -1032,42 +1022,9 @@ Layout with Flexbox
 
    2017-2018年，2年，ico.info, OTCBTC.com。
    https://otcbtc.com
+
 ---
-鄭伊廷
-2012年12月12日 · 台灣 · Taipei · 台北市 ·
-今年真是收穫滿滿。
 
-出國了四次，去過了三個國家。給了超過 10 場 talk。完成了五個案子。opensource 了兩個熱門 gem。拿了一個世界大獎。開了一間公司。開發了超過 10 個 Rails porject。寫了超過 60 篇文章。寫了超過 30 萬字。讀了超過 200 本書......
-
-只是好像很少睡覺.....
-
-鄭伊廷
-2014年12月26日 · 香港 · Yau Tsim Mong District · Kings Park ·
-做FB ㄧ年回顧才發現今年好像出國太多趟XD
-
-三月去菲律賓 Rubyconf
-四月去芝加哥 Railsconf
-四月去箱根泡溫泉
-五月去香港看劇場版科學怪人
-六月去新加坡 Rubyconf
-八月去北海道過生日
-十月去東京血拼
-十一月去灣區出差兩個月
-十二月跟妹妹到香港過聖誕節
-十二月帶媽媽去北海道玩⋯⋯
-
-https://www.hksilicon.com/articles/99383
-
-鄭伊廷
-2013年10月30日 · 台灣 · Taipei · 台北市 ·
-当然，重新发明东西并不会给我带来论文发表，但是它却给我带来了更重要的东西，这就是独立的思考能力。一旦一个东西被你“想”出来，而不是从别人那里 “学”过来，那么你就知道这个想法是如何产生的。这比起直接学会这个想法要有用很多，因为你知道这里面所有的细节和犯过的错误。而最重要的，其实是由此得到的直觉。如果直接去看别人的书或者论文，你就很难得到这种直觉，因为一般人写论文都会把直觉埋藏在一堆符号公式之下，让你看不到背后的真实想法。如果得到了直觉，下一次遇到类似的问题，你就有可能很快的利用已有的直觉来解决新的问题。
-
-鄭伊廷
-2014年12月30日 ·
-體會到ㄧ個神秘的哲學：面對未知的領域，作好萬全的準備是思考上的懶惰。唯有勇敢邁出第一步，然後不斷的修正前進，才是執行上的巨人⋯⋯
-
-偏偏這是人類的大盲點⋯⋯
----
 讀碩士，不如工作兩年；工作兩年，不如認真創業兩年
 http://mrjamie.cc/2016/10/20/startup-master/
 
@@ -1093,9 +1050,33 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
  推荐一篇文章：我在矽谷的那些日子 : Sifteo
  http://rexytseng.com/posts/sf-days
 
+ 給尚未大學畢業的朋友的幾個人生建議 - 挑戰未來篇
+ http://blog.xdite.net/posts/2012/10/26/another-advice-for-undergraduate
+
+ 「你必須很努力，才能看起來毫不費力」，我曾經付出過的，你給不起
+ https://www.thenewslens.com/article/73656
+
  - 下午：整理郑伊廷2017年的facebook有价值的文章；
 
+ markdown接入
+ http://linzhewei-blog.logdown.com/posts/1203188
+ http://www.rubydoc.info/gems/simplemde-rails/1.10.2
+
+ Ruby on Rails 基本主義
+ https://medium.com/@juanitofatas/ruby-on-rails-%E5%9F%BA%E6%9C%AC%E4%B8%BB%E7%BE%A9-f4cde39292a4
+
+ 会员加V方法；
+ http://lanxinn-blog.logdown.com/posts/842851
+
+ 8月29日 老徐说的话真有用
+ http://lanxinn-blog.logdown.com/posts/816339
+
+ 敏捷开发流程图：
+
+ http://redmine.growthschool.com/projects
+
  - 晚上：查看编程的体系维度；
+
 
 
   **杨吉堂工作总结**
@@ -1103,3 +1084,14 @@ http://blog.xdite.net/posts/2016/09/16/newbie-with-no-experience-programming
   - 撰写月总结
   - 写两位朋友的评价
   - 生成一个简单项目
+
+ **田文艺工作总结**
+  - 上午：微信内容运营
+  - 下午：完成对同事的评价 制作运营图片 阅读Rexy Tseng的分享文章
+
+  **张家琛工作总结**
+  - 支付功能梳理 有一个好的梳理方式：按照视频一步一步对照着专案里的代码写好注释，整理成博客。
+  - 文章阅读：我在矽谷的那些日子 : Sifteo
+  http://rexytseng.com/posts/sf-days
+  - 为同事杨吉堂写评价
+
