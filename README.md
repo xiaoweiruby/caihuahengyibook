@@ -1119,3 +1119,10 @@ https://xdite.gitbooks.io/blitzscaling/content/
   - 文章阅读：我在矽谷的那些日子 : Sifteo
   http://rexytseng.com/posts/sf-days
   - 为同事杨吉堂写评价
+
+
+# 2018年02月02日
+  **肖威工作总结**
+  - 上午：梳理产品开发的逻辑体系
+  - 下午：填写杨吉堂评价+发放工作薪酬+年前聚餐
+  - 晚上：参加墨刀茶话会+查看编程的逻辑代码
