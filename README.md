@@ -1160,6 +1160,12 @@ https://xdite.gitbooks.io/blitzscaling/content/
   - 晚上：参加墨刀茶话会+查看编程的逻辑代码
 
 
+  **张家琛工作总结**
+  - 配置好gitbook
+  - 梳理支付功能
+  - 帮助同事部署网站
+
+
 
   **杨吉堂工作总结**
   - 完成网站的阿里云部署
@@ -1168,4 +1174,5 @@ https://xdite.gitbooks.io/blitzscaling/content/
   **田文艺工作总结**
    - 上午：因故请假
    - 下午：完成今日微信内容编辑推送
+
 
