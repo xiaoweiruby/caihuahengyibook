@@ -91,15 +91,20 @@ xdite · 发布于 2016年06月16日 2008 年 26 岁 （2013年30岁）
 
 1978-2006 文化大學應用數學系毕业+高校调代码
 http://crssam.pccu.edu.tw
+
 2006-2012年，6年．我中間還有做很多網站，LOGDOWN 算是覺得最個人產品的一個。
 http://logdown.com
+
 2012-2016年，4年，GROWTHSCHOOL，《增长黑客这样做》
 http://www.growthschool.com
+
 2016-2017年，2年，全栈营 fullstack 。
 https://fullstack.xinshengdaxue.com
+
 2017-2018年，2年，ico.info, OTCBTC.com
 https://otcbtc.com
 
+---
 - 23岁 第一份工作：文化大学人事室 职务：全校教职员出缺勤，劳健保
 - 24岁 第一份工作：文化大学计算机中心 职务：关机器、写网页
 - 25岁 第三份工作：Handlino（KKTIX前身）&PIXNET 网页工程师
@@ -126,7 +131,7 @@ https://otcbtc.com
 2017年07月16日-2017年09月09日（大陆公司）
 - otcbtc.com
 发布会：2017年10月26日-2018年02月01日（台湾公司）
-
+---
 
 如何才可以更好的完成编程技能的学习？
 - （1）敏捷开发：前提是对于整个产品开发的逻辑非常的清晰
