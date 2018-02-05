@@ -1221,3 +1221,5 @@ https://xdite.gitbooks.io/blitzscaling/content/
 **田文艺工作总结**
  - 上午：微信图文编辑推送
  - 下午：视频编辑+微信内容编辑
+**张家琛工作总结**
+-  整理阿里云部署文档
