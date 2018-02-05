@@ -1224,3 +1224,17 @@ https://xdite.gitbooks.io/blitzscaling/content/
 
 **张家琛工作总结**
 -  整理阿里云部署文档
+
+# 2018年02月06日
+**肖威工作总结**
+- 上午：阿里云部署实战
+
+Linux 云服务器部署运维
+http://wangjiao-blog.logdown.com/posts/2260929-linux-cloud-server-deployment-operation-and-maintenance
+
+- 下午：阿里云部署总结
+
+数一数教材《部署指南》上的坑，写给后来者………….XD.md
+http://activeliang-blog.logdown.com/posts/1652386-dry
+
+- 晚上：阿里云部署思考
