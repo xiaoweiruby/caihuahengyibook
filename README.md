@@ -1232,6 +1232,12 @@ https://xdite.gitbooks.io/blitzscaling/content/
 Linux 云服务器部署运维
 http://wangjiao-blog.logdown.com/posts/2260929-linux-cloud-server-deployment-operation-and-maintenance
 
+GitHub 错误解决方法（删除远端）
+
+1、先输入$ git remote rm origin
+
+2、再输入$ git remote add origin git@github.com:djqiang/gitdemo.git 就不会报错了！
+
 - 下午：阿里云部署总结
 
 数一数教材《部署指南》上的坑，写给后来者………….XD.md
