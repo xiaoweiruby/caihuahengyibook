@@ -1232,6 +1232,19 @@ https://xdite.gitbooks.io/blitzscaling/content/
 Linux 云服务器部署运维
 http://wangjiao-blog.logdown.com/posts/2260929-linux-cloud-server-deployment-operation-and-maintenance
 
+轨道部署命令记录（阿里云）
+http://lichen-blog.logdown.com/posts/2615514-rails-deployment
+
+RailsFun tw新手教学day4 HD
+http://tienshunlo-blog.logdown.com/?page=5
+
+Deploy Rails app to AWS EC2
+
+http://kuro-sean-blog.logdown.com/posts/701033-rails-app-deploy-to-aws-ec2
+
+[SDE] Ubuntu server搭配Nginx-Passenger部署RoR App
+http://vinn.logdown.com/posts/2014/06/14/ubuntu-server-nginx-passenger-deploy
+
 GitHub 错误解决方法（删除远端）
 
 1、先输入$ git remote rm origin
@@ -1242,6 +1255,10 @@ GitHub 错误解决方法（删除远端）
 
 数一数教材《部署指南》上的坑，写给后来者………….XD.md
 http://activeliang-blog.logdown.com/posts/1652386-dry
+
+不错的晨摘记录
+
+http://w1a2d3s4q5e6-blog.logdown.com/archives
 
 - 晚上：阿里云部署思考
 
