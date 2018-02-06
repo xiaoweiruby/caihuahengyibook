@@ -1252,3 +1252,7 @@ https://mp.weixin.qq.com/s?timestamp=1517875586&src=3&ver=1&signature=Y6p2K-0AfR
 
 把握一种思维方式聚焦主攻方向快速切入十倍速区块链新世界
 https://mp.weixin.qq.com/s?timestamp=1517875586&src=3&ver=1&signature=Y6p2K-0AfRyU*uCTgcUfOEDlEXz4brc9JerUV5u3Rs0cy*yVAxE3752lZ-ML2GvNA3FYZwi9OP6n84Ex5AVRAqFduxEynZFvlZYVFIXxoyq15IYg4zewhneKotlGpl-JdKmrv55DFsjo*6x1*1CT-Z9G2kQYvv9m4qFOxeWdKdU=
+
+**田文艺工作总结**
+ - 上午：完成微信内容端打造 视频采集
+ - 下午：整理推送作品
