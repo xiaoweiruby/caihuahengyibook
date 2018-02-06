@@ -1238,3 +1238,11 @@ http://wangjiao-blog.logdown.com/posts/2260929-linux-cloud-server-deployment-ope
 http://activeliang-blog.logdown.com/posts/1652386-dry
 
 - 晚上：阿里云部署思考
+
+- 点线面体的思考
+
+李笑来Xdite金石，十倍速区块链新世界“点线面体”思维方式的三个代表
+https://mp.weixin.qq.com/s?timestamp=1517875586&src=3&ver=1&signature=Y6p2K-0AfRyU*uCTgcUfOEDlEXz4brc9JerUV5u3Rs0cy*yVAxE3752lZ-ML2GvNA3FYZwi9OP6n84Ex5AVRAp*S8wQq-2-xeiTVddidlfMpWW*dbDK1u4XR7OkSPUel8lhivLEKNui-HVZq4stYy7IPKXEBm87e-GL9eRAxMuk=
+
+把握一种思维方式聚焦主攻方向快速切入十倍速区块链新世界
+https://mp.weixin.qq.com/s?timestamp=1517875586&src=3&ver=1&signature=Y6p2K-0AfRyU*uCTgcUfOEDlEXz4brc9JerUV5u3Rs0cy*yVAxE3752lZ-ML2GvNA3FYZwi9OP6n84Ex5AVRAqFduxEynZFvlZYVFIXxoyq15IYg4zewhneKotlGpl-JdKmrv55DFsjo*6x1*1CT-Z9G2kQYvv9m4qFOxeWdKdU=
