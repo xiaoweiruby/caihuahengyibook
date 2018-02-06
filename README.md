@@ -1273,3 +1273,6 @@ https://mp.weixin.qq.com/s?timestamp=1517875586&src=3&ver=1&signature=Y6p2K-0AfR
 **田文艺工作总结**
  - 上午：完成微信内容端打造 视频采集
  - 下午：整理推送作品
+
+ **张家琛工作总结**
+ - 整理工作总结
