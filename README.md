@@ -1303,3 +1303,7 @@ https://mp.weixin.qq.com/s?__biz=MzIxOTI3NzczMQ==&mid=2654854921&idx=1&sn=fb18b0
 
  [Rails]一鍵將Rails佈署(Deploy)到VPS上
  http://niclin.logdown.com/posts/874388-rails-a-key-to-rails-disposal-deploy-on-a-vps
+
+ **田文艺工作总结**
+  - 上午：微信内容打造
+  - 下午：注册MEW账号 OTCBTC账号 ps做图
