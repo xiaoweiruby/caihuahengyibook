@@ -1276,3 +1276,30 @@ https://mp.weixin.qq.com/s?timestamp=1517875586&src=3&ver=1&signature=Y6p2K-0AfR
 
  **张家琛工作总结**
  - 整理工作总结
+
+
+# 2018年02月07日
+ **肖威工作总结**
+ - 上午：阿里云部署实战
+ (1)针对于秘钥的填充问题：保存：control+s
+ - 下午：阿里云部署总结
+ （1）针对于nigix的部署问题
+ root@# vi /etc/nginx/nginx.conf
+ root@# service nginx restart
+ Job for nginx.service failed because the control process exited with error code. See "systemctl
+ root@iZbp1el9eqr15sz0z8olo7Z:~# ```systemctl status nginx.service```可以查看nigix的相关错误；
+ [Linode] Deploy Rails app to Linode by Capistrano ( Ubuntu 16.04/nginx/puma/MySQL/rvm )
+http://anxgang.logdown.com/posts/776924-linode-deploy-to-linode-by-capistrano-ubuntu-1604-nginx-puma-mysql-rvm
+
+月亮灯箱
+http://moonlightbox.logdown.com/archives
+
+go daddy買ssl & Nginx 安裝
+http://force416.github.io/eric_profile/2016/07/21/godaddy-ssl-and-nginx-install/
+ - 晚上：阿里云部署思考
+
+ 如何把rails项目部署到linode云端服务器并跟域名连上
+https://mp.weixin.qq.com/s?__biz=MzIxOTI3NzczMQ==&mid=2654854921&idx=1&sn=fb18b04397c1913d80ab0611d5b94dac&scene=0#wechat_redirect
+
+ [Rails]一鍵將Rails佈署(Deploy)到VPS上
+ http://niclin.logdown.com/posts/874388-rails-a-key-to-rails-disposal-deploy-on-a-vps
