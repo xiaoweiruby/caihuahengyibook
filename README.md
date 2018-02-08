@@ -1307,3 +1307,13 @@ https://mp.weixin.qq.com/s?__biz=MzIxOTI3NzczMQ==&mid=2654854921&idx=1&sn=fb18b0
  **田文艺工作总结**
   - 上午：微信内容打造
   - 下午：注册MEW账号 OTCBTC账号 ps做图
+
+# 2018年02月08日
+  **肖威工作总结**
+  - 上午：完成域名接口的对接+完成实习证明的开具+查看支付现金流的逻辑；
+  https://github.com/flyerhzm/activemerchant_patch_for_china
+  - 下午：财务对接+社保公积金对接+工位对接
+
+  - 晚上：查看支付功能开发逻辑
+  Rails 从入门到完全放弃
+  https://tkvern.com/20160721/Rails%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%8C%E5%85%A8%E6%94%BE%E5%BC%83/
