@@ -1384,7 +1384,7 @@ https://mp.weixin.qq.com/s?__biz=MzIxOTI3NzczMQ==&mid=2654854921&idx=1&sn=fb18b0
   - 下午：电脑优化+公积金减员
   - 晚上：支付技术文档
 
-# 互联网编程技术 Ruby on Rails
+## 互联网编程技术 Ruby on Rails
 
   编辑器gem 撰写的一个方法：
   https://www.jianshu.com/p/bc0195da2246
@@ -1396,7 +1396,7 @@ https://mp.weixin.qq.com/s?__biz=MzIxOTI3NzczMQ==&mid=2654854921&idx=1&sn=fb18b0
   看一些范例，有一些可以用来借鉴使用：
   http://railscasts-china.com/episodes?page=5
 
-# 区块链技术 Solidity
+## 区块链技术 Solidity
   https://xiaozhuanlan.com/blockchaincore
 
   **（1）区块链基础知识体系：**
@@ -1415,3 +1415,11 @@ https://mp.weixin.qq.com/s?__biz=MzIxOTI3NzczMQ==&mid=2654854921&idx=1&sn=fb18b0
   - 实现一个可管理、增发、兑换、冻结等高级功能的代币
 
   **（4）数字资产币币交易所**
+
+## 自我提高学习资料
+
+- 如何使用GitHunt在Chrome新选项卡屏幕上获得趋势GitHub项目
+https://medium.freecodecamp.org/how-to-find-trending-github-projects-using-githunt-in-chrome-cb2d2a8f2468
+
+- Vim不是那么可怕。这里有5个免费的资源，你可以用它来学习它。
+https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-ab78f5726f8d
