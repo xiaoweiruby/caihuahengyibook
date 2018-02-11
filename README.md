@@ -1383,3 +1383,13 @@ https://mp.weixin.qq.com/s?__biz=MzIxOTI3NzczMQ==&mid=2654854921&idx=1&sn=fb18b0
   - 上午：坐车+看支付技术文档
   - 下午：电脑优化+公积金减员
   - 晚上：支付技术文档
+
+  编辑器gem 撰写的一个方法：
+  https://www.jianshu.com/p/bc0195da2246
+  https://github.com/imtinge/wangeditor_rails
+
+  how to create a simple jobs board in ruby on rails
+  https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483
+
+  看一些范例：
+  http://railscasts-china.com/episodes?page=5
