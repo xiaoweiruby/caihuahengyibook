@@ -1449,9 +1449,9 @@ https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-yo
 
 （2）电影：华尔街之狼（销售的技巧，让他人产生对于你的信任）
 
-（3）软件：Github（版本协同工具）
+（3）软件：音频，视频，图片，文字。
 
-（4）硬件：Mac（编程工具）
+（4）硬件：三星C49HG90DMC曲面48.9英寸显示器144HZ电竞电脑液晶带鱼屏幕PS4 （编程工具）
 
 （5）信息：Medium（信息获取工具）
 
