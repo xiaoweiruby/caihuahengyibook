@@ -1509,5 +1509,22 @@ NextDraft，Dave Pell 写得一手好文章，同时在 Twitter 上吐得一手�
 https://github.com/sg552/my_vim
 happy_book_rails
 https://sg552.gitbooks.io/happy_book_rails/content/methodologies.html
+
 笨方法学习ruby
 http://lrthw.github.io/ex08/
+
+tiy-indy-bee-ror-feb16 / course_notes
+https://github.com/tiy-indy-bee-ror-feb16/course_notes/tree/master/week0
+RailsConf 2015计划
+http://confreaks.tv/events/railsconf2015
+
+Ruby Wizardry
+
+The Well-Grounded Rubyist 2nd Edition
+
+Eloquent Ruby (Addison-Wesley Professional Ruby Series)
+
+http://gitimmersion.com/lab_01.html
+
+前端编辑的页面
+https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b
