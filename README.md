@@ -1504,3 +1504,27 @@ NextDraft，Dave Pell 写得一手好文章，同时在 Twitter 上吐得一手�
 
 其他首屏应用：很喜欢每天准时推送两次的精美新闻应用 Yahoo Digest，以及有很多好文章的 Medium；每天必用治疗工作久坐的问题的益智类应用 Ingress（误）；强烈推荐价格不贵但是有 400 多个滤镜的 Analog Film；另外，用 HyperLapse 拍摄 1080p 24 倍速的延时摄影也是我最喜欢做的事情；另外推荐 YouTube 上 Screen Junkies 的 Honest Trailer 电影的真实吐槽，越 mean 越欢乐。
 - 完成：看看区块链开发部署
+
+这是我的vim配置， 欢迎大家使用！
+https://github.com/sg552/my_vim
+happy_book_rails
+https://sg552.gitbooks.io/happy_book_rails/content/methodologies.html
+
+笨方法学习ruby
+http://lrthw.github.io/ex08/
+
+tiy-indy-bee-ror-feb16 / course_notes
+https://github.com/tiy-indy-bee-ror-feb16/course_notes/tree/master/week0
+RailsConf 2015计划
+http://confreaks.tv/events/railsconf2015
+
+Ruby Wizardry
+
+The Well-Grounded Rubyist 2nd Edition
+
+Eloquent Ruby (Addison-Wesley Professional Ruby Series)
+
+http://gitimmersion.com/lab_01.html
+
+前端编辑的页面
+https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b
