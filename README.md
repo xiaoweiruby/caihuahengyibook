@@ -1431,7 +1431,7 @@ https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-yo
 
  推荐自己使用的三个类别的产品：将极大的提升个人的能力；
 
-（1）书籍：vim 实用技巧、《平面设计中的网格系统》、批判性思考指南、如何高效生产、*《一个媒体推手的自白》：连续好几年都给实习生推荐。*
+（1）书籍：vim 实用技巧、《平面设计中的网格系统》、批判性思考指南、如何高效生产、*《一个媒体推手的自白》：连续好几年都给实习生推荐。* 永恒如新的日常设计
 
 （2）电影：Today's TED Talk
 
@@ -1451,6 +1451,13 @@ https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-yo
 
 （3）软件：音频，视频，图片，文字。
 
+WhatFont(The Easiest Way to Inspect Web Fonts.)
+Magnet，一键快速分屏，比如我需要左边开微信聊天右边码字的时候；
+鼠标和键盘共享：Synergy。https://symless.com/synergy
+录屏：OBS。https://obsproject.com/
+国外知名技术分享社区 http://thehackernews.com
+一个快速发现分享并讨论的技术社区 https://news.ycombinator.com/
+https://www.pinterest.com
 （4）硬件：三星C49HG90DMC曲面48.9英寸显示器144HZ电竞电脑液晶带鱼屏幕PS4 （编程工具）
 
 （5）信息：Medium（信息获取工具）
@@ -1462,4 +1469,38 @@ https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-yo
 
 
 - 下午: 查看支付功能结构
+https://talk.objc.io/
+https://weekly.codetengu.com/
+
+tratechery，Ben Thompson 靠他这个独立付费的科技话题分析博客能在台湾养活一家人，你知道有多好了吧？他很高产，不一定每篇都好，但一个月总有那么几篇让我拍手叫绝。
+Six Colors，Jason Snell 在 MacWorld 退下以后的所有好东西都发在这，我很喜欢他的文笔。
+objc.io，主要是采访 Apple 生态圈开发者的一个网站，文章不多，但每篇都很棒。
+Marco.org，嗯，多才多艺的 Marco 还是有挺多独立思考的好东西的，比如差点和耳机厂商吵起来的这篇。
+NSHipster，总是有很多好文章，关于 iOS 开发，关于各种汇编。
+Solidot，一个以科技话题为主有全球化视野的新闻源，可信，中文里少数我不需要看完后再去查证的网站。
+TidBITS，现在基本上用它来看 OS X 上的重磅软件更新了，之前博主还是有文章的，这两年似乎越来越少？
+AnandTech，我很多关于数码产品的硬件知识都是从这来，看了很多年了，非常靠谱。
+NextDraft，Dave Pell 写得一手好文章，同时在 Twitter 上吐得一手好槽，真是榜样。
+
+看 Netflix 上喜欢的美剧。
+
+软件呢？
+
+因为我的工作主要分成两个部分，一是输入（包括大量的新闻阅读、采访、摄影），二是输出（独立写作、和其他记者编辑的协作、图片处理），因此无论是手机还是工作用的笔记本，都必须先解决这两个问题。
+
+输入：找新闻素材使用 RSS 应用 Digg，里面聚合了大概 40 个不同的中外新闻源，我每天早上起床都会刷一个多小时的 RSS，如果觉得吸引的会一键存储到 Pocket 备用（同时设置了 IFTTT，在 Pocket 里面觉得特别有参考价值文章会点星标，自动同步到 Evernote 当中留底）。这是其中的一些：
+
+    Wired，怎么把技术话题写得好玩好看？就是连线了
+    NYT Tech，无须解释的必看网站，要买 Pay Wall
+    The Atlantic，长篇报道必看，是其中少有的会做 Fact Checking 的机构了
+    Ars Technica，软件完整详细评测高大全网站
+    AnandTech，硬件方面的评测和报道很靠谱
+    Quartz，同一个新闻素材，qz 总是能挖点不同的角度
+    Medium Backchannel，这是 Medium 上实力最强的专栏了
+
+采访中涉及录音，我最常用的是 RecApp，因为可以实时打点，后续听录音时可以方便找到采访对象在多少分多少秒有过精彩言论，还可以在多对象连轴采访的时候快速变换颜色区分录音区块，后期使用的时候好找；日程管理主要还是在 Google Calendar 上完成。
+
+输出：写作主要还是在笔记本上进行，常用软件是 Ulysses；无论是手机还是笔记本上，最常用的工作协作工具是 Slack，我们会在上面沟通大部分选题安排；Skype 也是我们每天使用的软件，每天早上开会用；另外的就是 Evernote 的共享笔记本，协作平台 Trello 也会偶尔使用；图片处理我用比较轻量级的 Pixelmator。
+
+其他首屏应用：很喜欢每天准时推送两次的精美新闻应用 Yahoo Digest，以及有很多好文章的 Medium；每天必用治疗工作久坐的问题的益智类应用 Ingress（误）；强烈推荐价格不贵但是有 400 多个滤镜的 Analog Film；另外，用 HyperLapse 拍摄 1080p 24 倍速的延时摄影也是我最喜欢做的事情；另外推荐 YouTube 上 Screen Junkies 的 Honest Trailer 电影的真实吐槽，越 mean 越欢乐。
 - 完成：看看区块链开发部署
