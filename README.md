@@ -1528,3 +1528,10 @@ http://gitimmersion.com/lab_01.html
 
 前端编辑的页面
 https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b
+
+# 2018年02月13日
+
+**肖威工作总结**
+- 上午: 看支付文档
+- 下午：看支付文档
+- 晚上：看区块链开发
