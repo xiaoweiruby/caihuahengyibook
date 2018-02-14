@@ -1528,3 +1528,11 @@ http://gitimmersion.com/lab_01.html
 
 前端编辑的页面
 https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b
+
+# 2018年02月14日
+  **肖威工作总结**
+  - 上午：撰写小专栏的文档
+  - 下午：撰写小专栏的文档+查看 medium.com 的 Ruby on Rails 的文章
+  终极中级Ruby on Rails教程：让我们创建一个完整的应用程序！
+  https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f
+  - 晚上：支付支付体系的技术文档
