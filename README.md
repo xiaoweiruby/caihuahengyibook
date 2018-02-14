@@ -1535,4 +1535,13 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   - 下午：撰写小专栏的文档+查看 medium.com 的 Ruby on Rails 的文章
   终极中级Ruby on Rails教程：让我们创建一个完整的应用程序！
   https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f
+
+  我如何每天编码365天
+  https://hackernoon.com/how-i-coded-everyday-for-365-days-67ebb5fc7ae
+  这个世界太惊喜
+  https://medium.com/palyhacks
+
+  来自19岁女孩和软件开发人员的建议
+  https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5
+
   - 晚上：支付支付体系的技术文档
