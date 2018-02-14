@@ -1547,3 +1547,90 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   因为你不学习如何在学校编码。您将学习如何通过编写程序进行编码。大多数公司并不在乎你是否有一篇很好的论文，说你在大学学习了程序设计：人们关心你可以证明你的编程技巧是好的，并且你喜欢编写代码。
 
   - 晚上：支付支付体系的技术文档
+
+  可以使用的教学案例：
+  How to create a simple jobs board in Ruby on Rails — even if you’ve never coded before
+  https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483
+
+  如何在30分钟内在Ruby on Rails，HTML和CSS中编写个人启动页面
+  https://medium.com/@NeilP666/how-to-code-a-personal-splash-page-in-ruby-on-rails-html-css-in-30-mins-adcece00f456
+
+  Ruby on Rails中的无限滚动
+  https://medium.com/wolox-driving-innovation/infinite-scrolling-ruby-on-rails-3fcd3bac0f75
+
+  如何为复仇者：HTML和CSS中的无限战争制作海报
+  https://medium.freecodecamp.org/how-to-make-a-poster-for-avengers-infinity-war-in-html-and-css-304d305c7f7
+
+  使用Ruby on Rails的实时Web应用程序
+  https://medium.com/@codescrum/real-time-web-applications-with-ruby-on-rails-2be817655fbe
+
+  Ruby on Rails 5中使用React的3种方法
+  https://medium.com/react-on-rails/3-ways-to-use-react-with-ruby-on-rails-5-1e49171f8eb6
+
+  介绍Sideswipe：React Native的跨平台轮播
+  https://blog.expo.io/introducing-sideswipe-a-cross-platform-carousel-for-react-native-8b9a0f18df53
+
+  如何Dockerize您的Ruby on Rails应用程序
+  https://medium.com/travis-on-docker/how-to-dockerize-your-ruby-on-rails-app-690b516cd872
+
+  为什么要学习Ruby on Rails？
+  https://medium.com/@oceanician/why-learn-ruby-on-rails-43e9875e9c18
+
+  如何设置Windows以开始开发Ruby on Rails Web应用程序
+  https://www.startuprocket.com/articles/how-to-setup-windows-to-begin-developing-ruby-on-rails-web-applications
+
+  我应该学习Ruby on Rails吗？
+  https://medium.com/@careerfoundry/should-i-learn-ruby-on-rails-fd2e43ff9b20
+
+  团队管理的案例：
+  https://medium.com/the-web-crunch-publication/lets-build-with-ruby-on-rails-project-management-app-1a9fb3010b01
+
+  第1部分：从零开始的简单离子教程 - 从0到Live App
+  https://codeburst.io/part-1-simple-ionic-tutorial-from-scratch-from-0-to-live-app-9a79db510a90
+
+  如何设置Mac以开始开发Ruby on Rails Web应用程序
+  https://www.startuprocket.com/articles/how-to-setup-a-mac-to-begin-developing-ruby-on-rails-web-applications
+
+  我们在React Native上构建了我们的整个创业公司，这就是我们发现的
+  https://react.jsnews.io/we-built-our-entire-startup-on-reactnative-and-this-is-what-we-found-out-developer/?source=medium
+
+  让我们用Ruby on Rails构建Dribbble克隆
+  https://medium.com/the-web-crunch-publication/lets-build-a-dribbble-clone-with-ruby-on-rails-6ae726417f77
+
+  让我们来构建：使用Ruby on Rails - 一个评论博客
+  https://medium.com/the-web-crunch-publication/lets-build-with-ruby-on-rails-a-blog-with-comments-2d301d2cb649
+
+  使用Cloud 66将您的Ruby on Rails应用程序部署到Microsoft Azure
+  https://medium.com/@cloud66/deploy-your-ruby-on-rails-application-to-microsoft-azure-with-cloud-66-225d11535248
+
+  与Mina，Nginx和Puma一起部署rails应用程序
+  https://medium.com/pixelpoint/deploy-rails-application-with-mina-nginx-and-puma-96a9caac9078
+
+  如何使用PostgreSQL，Redis等在AWS ElasticBean上设置和部署Rails 5应用程序...
+  https://hackernoon.com/how-to-setup-and-deploy-a-rails-5-app-on-aws-beanstalk-with-postgresql-redis-and-more-88a38355f1ea
+
+  接下来的大事：Facebook的Messenger和VR
+  https://medium.com/a-data-driven-guy/why-shopify-is-building-the-e-commerce-platform-of-the-future-61df9df78615
+
+  嵌入式Ruby（又名ERB，eRuby）快速入门
+  https://www.startuprocket.com/articles/a-quick-introduction-to-embedded-ruby-a-k-a-erb-eruby
+
+  几乎每个SaaS项目都使用25个Ruby Gems
+  https://hackernoon.com/27-gems-i-use-in-almost-every-project-832986551df8
+
+  加入Basecamp成为我们新的Rails程序员
+  https://m.signalvnoise.com/join-basecamp-as-our-new-rails-programmer-bf7022cb08f7
+
+  让我们构建一个Markdown解析器！
+  https://medium.com/square-corner-blog/lets-build-a-markdown-parser-7b02e91444c5
+
+   我所有的RailsConf主题演讲
+   https://m.signalvnoise.com/the-railsconf-keynotes-7fe77fd1260
+   DHH Ruby on Rails的创始人，Basecamp的创始人兼首席技术官（原37signals），NYT畅销书作家REWORK和REMOTE，以及勒芒一流的赛车手。
+
+   在十分钟内实时制作您的Rails应用程序
+   https://engineering.musefind.com/make-your-rails-app-real-time-in-under-ten-minutes-cd5bd4a47f61
+
+
+  尽管过去我学过一些编程语言，但除了Visual Basic几乎没有被视为语言之外，我对它们完全没有经验。我学会了铁轨：18个小时，每天2个月。没有睡觉，没有派对只是纯粹的硬编码。如果与编码无关，我禁止自己收看电视，电影或YouTube视频。我所做的或阅读的所有内容都是为了唯一目的：“尽快成为高级开发人员”。我很生疏，虽然我以前玩过Html / Css，但我觉得我需要回顾一切。所以我首先回顾了基础知识（HTML5，CSS3）并开始使用它。你需要这些基本技能来学习rails。
+  https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e
