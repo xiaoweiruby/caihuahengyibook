@@ -1544,4 +1544,6 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   来自19岁女孩和软件开发人员的建议
   https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5
 
+  因为你不学习如何在学校编码。您将学习如何通过编写程序进行编码。大多数公司并不在乎你是否有一篇很好的论文，说你在大学学习了程序设计：人们关心你可以证明你的编程技巧是好的，并且你喜欢编写代码。
+
   - 晚上：支付支付体系的技术文档
