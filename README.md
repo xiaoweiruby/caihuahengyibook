@@ -1642,4 +1642,6 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   - 中午：网站练习
   （功能制作+用户对接+页面美化+云端部署+支付对接）
   - 下午：内容营销
+  Payment：支付宝手机网站支付教程
+  http://blog.csdn.net/hel12he/article/details/61616085
   通过我们的知识体系完成产品的销售和交易
