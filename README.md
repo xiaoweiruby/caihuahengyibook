@@ -1634,3 +1634,12 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 
   尽管过去我学过一些编程语言，但除了Visual Basic几乎没有被视为语言之外，我对它们完全没有经验。我学会了铁轨：18个小时，每天2个月。没有睡觉，没有派对只是纯粹的硬编码。如果与编码无关，我禁止自己收看电视，电影或YouTube视频。我所做的或阅读的所有内容都是为了唯一目的：“尽快成为高级开发人员”。我很生疏，虽然我以前玩过Html / Css，但我觉得我需要回顾一切。所以我首先回顾了基础知识（HTML5，CSS3）并开始使用它。你需要这些基本技能来学习rails。
   https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e
+
+# 2018年02月15日
+  **肖威工作总结**
+  - 上午：小专栏 + Ruby on Rails 文档查看
+  https://www.ruby-toolbox.com/
+  - 中午：网站练习
+  （功能制作+用户对接+页面美化+云端部署+支付对接）
+  - 下午：内容营销
+  通过我们的知识体系完成产品的销售和交易
