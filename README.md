@@ -1646,8 +1646,12 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   http://blog.csdn.net/hel12he/article/details/61616085
   通过我们的知识体系完成产品的销售和交易
 
-  # 2018年02月16日
+# 2018年02月16日
     **肖威工作总结**
     - 上午：撰写全栈营的培训大纲+走亲访友
     - 下午：看看支付功能文档
+    懂“你”的Rails框架
+    http://www.itdks.com/dakalive/detail/6919
+    360互联网技术训练营第七期---“遇见”PIKA
+    http://www.itdks.com/eventlist/detail/1693
     - 晚上：讲一个课程
