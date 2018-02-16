@@ -1649,9 +1649,34 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 # 2018年02月16日
   **肖威工作总结**
   - 上午：撰写全栈营的培训大纲+走亲访友
+  **思考三端开发流程**
+  网页端开发
+
+  移动端开发
+
+  微信端开发
+  如何在云端快速部署微信小程序
+  http://www.itdks.com/eventlist/detail/1280
+
   - 下午：看看支付功能文档
   懂“你”的Rails框架
   http://www.itdks.com/dakalive/detail/6919
+
   360互联网技术训练营第七期---“遇见”PIKA
   http://www.itdks.com/eventlist/detail/1693
+
+  小程序再起航丨野狗 Meetup 技术沙龙 第6期
+  http://www.itdks.com/eventlist/detail/916
+
   - 晚上：讲一个课程
+  Markdown Here 教程（这次是及格版）
+  https://mp.weixin.qq.com/s?src=3&timestamp=1518780886&ver=1&signature=WShG91tqRr51l5w3k5D-wT6MGZdotyg0JfyIxgNCOy54sLD6Ps4P5y*Ivw12vZ8e1YGO9qA3RrZktJjUNe966zeNoJxjW8CwqaVpA0Q1AkCM2HlWxpyjJE8y9*jjgw2GXOYFwI-t6PKdFsWbqDx1agpHLBB-lBfhaixBx3*48SQ=
+  Markdown 的火狐语法调整
+  https://addons.mozilla.org/en-US/firefox/addon/markdown-here/
+  moz-extension://27da857f-50df-aa4e-94ca-57124d9026a1/common/options.html
+  干货 | 为知笔记markdown样式定制
+  https://mp.weixin.qq.com/s?src=11&timestamp=1518778966&ver=702&signature=UBDFpmCl1D7onnwSaVOG8z8cOQX-Sua*tWhcfNyLeeAuCWJDhwYqP5KWODPjVbG39cZzs-kVwiK-2seuksyVoQewcZhbbBCd8IpvR7doP3XBPmL5bfNerd*FqxymeLMj&new=1
+  果说|从此爱上写作——半小时即可学会的Markdown使用指南
+  https://mp.weixin.qq.com/s?src=3&timestamp=1518779786&ver=1&signature=NhaVX-1yPJQoONrA1pW0t380ts2OhRDODENP*ArhBW4TYafQca00yo4XRocPc*H71l*4wA302NyYeSrtDvCr6GEx-cdtiHiPORymHzK3nrBGzjQ2btE1eLNe9JZxGYS0xzLuAfGHVggiI2yaVmKwJQ==
+  用Markdown Here简化微信公众号的排版
+  https://mp.weixin.qq.com/s?src=11&timestamp=1518780042&ver=702&signature=W7i76T9gBY4*dumijY9emGsOguo6Ou9pT-nlS8HzfjEDdwjwL1aRoVIDszut**IQjq5yKu4RqkLKYqZo5-LY49ev-AiSM601HGPltjkoVJ2oLhk7l-vBq5120BWrUYNt&new=1
