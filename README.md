@@ -1871,3 +1871,21 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 
    Creating a chocolate store using Ruby on Rails
    https://www.youtube.com/watch?v=be_EHQnpb8k&t=227s
+   https://bitbucket.org/takeofflabs/youtech/
+
+   https://github.com/justalever
+
+   让我们来构建：使用Ruby on Rails - 带评论的博客
+   https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments/
+
+   推特克隆 - 让我们建立：使用Ruby on Rails
+   https://web-crunch.com/lets-build-with-ruby-on-rails-a-twitter-clone/
+
+   让我们用Ruby on Rails构建Dribbble克隆
+   https://web-crunch.com/lets-build-dribbble-clone-with-ruby-on-rails/
+
+   让我们来构建：使用Ruby On Rails - 项目管理应用程序
+   https://web-crunch.com/lets-build-with-ruby-on-rails-project-management-app/
+
+   让我们建设：使用Ruby on Rails - 讨论论坛
+   https://web-crunch.com/lets-build-with-ruby-on-rails-discussion-forum/
