@@ -1839,3 +1839,35 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   - 上午：软技能，撰写小专栏+完成容器打造技能提升
   - 下午：硬技能，完成容器打造技能提升
   - 晚上：影响力，完成内容化的营销手段，不断的提升个人的影响力
+  樊登读书会的知识体系的获取；
+  1、可复制的领导力
+  https://www.youtube.com/watch?v=NXLL8WgUH2s
+  【优秀改变世界】
+  2、解读樊登读书会进化模式
+  https://www.youtube.com/watch?v=UGgk2McAOHQ
+  【精益创业】【疯传】【打造线下的产品】【指数型组数】【谷物大脑】
+  格力买电风扇、保洁洗衣粉；
+  【第一次研发的结果作为第二次研发的基础】
+
+  【让客户让为你做销售】【你就是孩子最好的游戏】
+   3、你要如何衡量你的人生【激励和动因】
+   https://www.youtube.com/watch?v=za5SYucE35w
+   华硕外包成为了戴尔、孔子如何看人：观其所由
+
+   樊登个人的发展经历
+   学习
+   1976-1997 西安交通大学
+   1997年7月-1998年9月任教于西安交通大学材料系；
+   1998年9月-2001年5月就读于西安交通大学管理学院获管理学硕士学位
+   就业
+   2001年5月-2002年9月就职于中央电视台《实话实说》节目组；
+   2002年9月-2003年8月就职于中央电视台《十二演播室》节目组；
+   2002年8月至今就职于中央电视台青少中心青年部，期间主持过中学生热爱的节目《三星智力快车》，同时兼任《管理学家》（月刊）杂志社执行主编；
+   2007年9月至今任职于北京交通大学语言与传播学院、应用传播学研究中心主任；
+
+   ruby on rails
+   12 Web Apps in 12 Weeks
+   https://www.youtube.com/watch?v=7-1HCWbu7iU&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=1
+
+   Creating a chocolate store using Ruby on Rails
+   https://www.youtube.com/watch?v=be_EHQnpb8k&t=227s
