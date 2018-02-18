@@ -1889,3 +1889,9 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 
    让我们建设：使用Ruby on Rails - 讨论论坛
    https://web-crunch.com/lets-build-with-ruby-on-rails-discussion-forum/
+---
+# 2018年02月18日
+   **肖威工作总结**
+   - 上午：完成学校简报的撰写（整理）
+   - 下午：完成简报的梳理（优化）
+   - 晚上：完成年检材料的整理（整理）
