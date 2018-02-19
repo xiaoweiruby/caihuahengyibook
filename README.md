@@ -1895,3 +1895,23 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
    - 上午：完成学校简报的撰写（整理）
    - 下午：完成简报的梳理（优化）
    - 晚上：完成年检材料的整理（整理）
+
+# 2018年02月19日
+   **肖威工作总结**
+   - 上午：完成才华横溢2018年度计划的撰写（整理）
+   - 下午：查看网页编程代码的梳理（优化）
+   Creating an Online Shop in Rails - Part 2
+   https://www.youtube.com/watch?v=Hq2MraUlmFg（解读 erb 语法）
+   https://www.twilio.com/docs/quickstart/ruby/rest/initiating-calls（网站的排版不错）
+   - 晚上：制作编程的案例解析（整理）
+   Building with the Stripe APIs: Payments for tomorrow’s businesses
+   https://www.youtube.com/watch?v=jpefF6e9fi4
+
+   Node.js & Stripe API - Ebook Sales App & Heroku Deploy
+   https://www.youtube.com/watch?v=QT3_zT97_1g
+
+   Rails初学者教程：12分钟内建立一个网站！（在本地运行）
+   https://www.youtube.com/watch?v=quLmIuIrIig&t=61s
+
+   使用Ruby on Rails构建Web API。
+   https://www.youtube.com/watch?v=36M2BSA2LYk
