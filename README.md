@@ -1933,6 +1933,9 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 
  ​老冒这个人，还有他的区块链
  原创 2018-02-12 方刚 大鱼数字财经
+ http://web.siwei.me/
+ Ruby on Rails 内容的解读体系
+
 
  https://www.upwork.com/o/profiles/users/_~013bb644901604a529/
  兼职的网站
