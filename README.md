@@ -1924,6 +1924,23 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 
  （网页端产品、移动端产品、微信端产品）
 
+ Ruby on Rails app using payment integration (paypal), AJAX, action mailer
+ https://www.youtube.com/watch?v=AKXtKm-OUfI(课程订阅)
+ Ruby on Rails Portfolio
+ https://www.youtube.com/watch?v=owm5lwxj9Oc（电影图片）
+
+ https://www.upwork.com/cat/developers/（网站的导航）
+
+ ​老冒这个人，还有他的区块链
+ 原创 2018-02-12 方刚 大鱼数字财经
+
+ https://www.upwork.com/o/profiles/users/_~013bb644901604a529/
+ 兼职的网站
+
+ 全堆栈Ruby on Rails开发人员
+我使用Ruby和Ruby on Rails构建和提供移动和Web应用程序。与往常一样，随着考虑的发展，我会尽快进行原型设计。我是一位耐心而彻底的人，注重细节。那么你会喜欢和我一起工作。后端技能：Ruby，Ruby on Rails，PostgreSQL，MySQL。前端技能：HTML5，CSS3（SCSS＆HAML），Bootstrap，MaterializeCSS，Javascript，Jquery，ReactJs，AngularJs，AJAX。其他技能：GIT，elasticsearch，Heroku，PayPal集成，Facebook API，AWS亚马逊S3，OmniAuth测试工具（MiniTest）。
+
+
   针对于 Ruby on Rails 的五个部分完成教学，不断的优化和调整其中的知识体系的结构，完成自己知识体系结构的体系化梳理。
 
   - 功能体系
