@@ -1953,3 +1953,31 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   - 支付体系
 
   针对于我们需要完成的知识的结构，不断的梳理其中的知识的结构，完成我们的知识体系的梳理，从而达到最好的知识结构的梳理。
+
+# 2018年02月21日
+  **肖威工作总结**
+  - 上午：撰写小专栏的思考
+  - 下午：撰写小专栏的思考
+  - 晚上：思考
+
+# 2018年02月22日
+  **肖威工作总结**
+  - 上午：撰写小专栏的思考
+  - 下午：撰写小专栏的思考+看 Youtube 的书籍思考
+
+  The Millionaire Next Door 隔壁的富翁
+  （1944-2015） Thomes J.Stanley
+  隔壁的百万富翁 - 如何像百万富翁一样生活 - The Millionaire Next Door
+  https://www.youtube.com/watch?v=MF_Dfr4udlc
+  The millionaire next door review: How YOU can build wealth
+  https://www.youtube.com/watch?v=fVgDH8M0ZUo
+  如何高效学习技能 - 四小时厨师 - 八二原则- The 4-Hour Chef by Tim Ferriss - DISSS method
+  https://www.youtube.com/watch?v=RtX06OR3gVo&list=PL9AbjvouJd7U4kE9HRdPRcz-dSBbG0apS
+
+  - 晚上：思考
+  富人的秘密 - 百万富翁的秘密 secrets of the millionaire mind 6个成功人士的秘诀 - 富人的秘密书评 - 读书精华总结
+  https://www.youtube.com/watch?v=tjPY782IYzU
+  5分钟视频教如何成为亿万富翁《THE MILLIONAIRE FASTLANE》
+  https://www.youtube.com/watch?v=MQsCGRec1-8
+  得到直播 吴军： 如何突破社会阶层，向上进阶？ 2017/07/28
+  https://www.youtube.com/watch?v=Acsh0qxV73g
