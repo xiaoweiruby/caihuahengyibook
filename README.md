@@ -1980,6 +1980,10 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   https://www.youtube.com/watch?v=RtX06OR3gVo&list=PL9AbjvouJd7U4kE9HRdPRcz-dSBbG0apS
 
   - 晚上：思考
+  隔壁的百万富翁，Thomas J. Stanley博士，William D. Danko博士 - 书评
+  https://www.youtube.com/watch?v=_rG79bNetVg
+  隔壁的百万富翁 PDF
+  https://davidbeitler.com/temp/The%20Millionaire%20Next%20Door%20%5BBook%5D-MANTESH.PDF.pdf
   富人的秘密 - 百万富翁的秘密 secrets of the millionaire mind 6个成功人士的秘诀 - 富人的秘密书评 - 读书精华总结
   https://www.youtube.com/watch?v=tjPY782IYzU
   5分钟视频教如何成为亿万富翁《THE MILLIONAIRE FASTLANE》
