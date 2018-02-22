@@ -1961,6 +1961,11 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   - 晚上：思考
 
 # 2018年02月22日
+ 赚钱的核心的技能体系在于三点事情上面的投入：
+ 思想+技能+产品
+ 不断的反思自己的思想，优化自己的技能，打造自己的产品，
+ 最终依靠自己思想完成营销，依靠自己的技能完成产品的打造，可以通过教育的手段售卖自己的技能，售卖自己的产品，
+ 从而不再售卖我们的时间，我们的产品依靠时间完成批量化复制，从而依靠产品解放我们的人生；
   **肖威工作总结**
   - 上午：撰写小专栏的思考
   - 下午：撰写小专栏的思考+看 Youtube 的书籍思考
@@ -1981,3 +1986,8 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   https://www.youtube.com/watch?v=MQsCGRec1-8
   得到直播 吴军： 如何突破社会阶层，向上进阶？ 2017/07/28
   https://www.youtube.com/watch?v=Acsh0qxV73g
+
+  Building a Simple ToDo App With React Native and Firebase
+  https://www.youtube.com/watch?v=3ab0K6viEp0
+  React Native的iOS开发人员
+  https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.vhz2t4tmq
