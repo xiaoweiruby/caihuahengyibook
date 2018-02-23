@@ -2007,4 +2007,18 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   Introduction to React Native - Building a React Native app from scratch
   https://www.youtube.com/watch?v=r5OPRhelEIU
   - 下午：完成案例的梳理
-  - 晚上：思考
+  - 晚上：整理 Ruby 北京 招聘公司情况 （17页）
+
+  从功能上来看：超级简历比较完整，从成长性来看：小专栏发展潜力更大，从未来的趋势上来：交易所智只能存在一时；
+  所以在这个维度来看，每一个行业都需要编程的人才，作为技术的储备，但是最后个人的发展还是需要看公司的业务的发展的定位，不然难以达到最好的成长的效果；
+
+  http://dyz.life/(超级简历文档)
+  gem 'awesome_rails_console' 的使用，User.all 看数据
+  https://code.facebook.com/
+  https://gaps.com/live-challenge/
+  https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04
+
+  http://www.zcool.com.cn/u/521379（网页的一些样板）
+  http://designmodo.github.io/Flat-UI/
+  http://www.runoob.com/mongodb/nosql.html
+  https://www.mongodb.com/
