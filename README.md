@@ -1995,3 +1995,16 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   https://www.youtube.com/watch?v=3ab0K6viEp0
   React Native的iOS开发人员
   https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.vhz2t4tmq
+
+# 2018年02月23日
+  **肖威工作总结**
+  - 上午：撰写小专栏的思考+neact-native的案例思考
+
+  Why React Native, Building Awesome News App
+  https://www.youtube.com/watch?v=8id-MphYTAo
+  https://newsapi.org/
+
+  Introduction to React Native - Building a React Native app from scratch
+  https://www.youtube.com/watch?v=r5OPRhelEIU
+  - 下午：完成案例的梳理
+  - 晚上：思考
