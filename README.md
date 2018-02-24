@@ -2051,15 +2051,15 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
      https://github.com/shenzhoudance
 
   举办编程比赛，完成人才的输送；
-  （1）原型设计：墨刀
-  （2）技术发表：小专栏
-  （3）就业求职：超级简历
-  （4）创业培训：才华横溢
-  （5）企业实习：推荐就业
+- （1）原型设计：墨刀
+- （2）技术发表：小专栏
+- （3）就业求职：超级简历
+- （4）创业培训：才华横溢
+- （5）企业实习：推荐就业
 
   2018
-  才华横溢 X 墨刀 X 超级简历
-  Coding & Idea & Design
-  change the world
-  三剑客 快速入职互联网企业；
-  找到需要招聘的企业，完成企业推荐实习 offor
+- 才华横溢 X 墨刀 X 超级简历
+- Coding & Idea & Design
+- change the world
+- 三剑客 快速入职互联网企业；
+- 找到需要招聘的企业，完成企业推荐实习 offor
