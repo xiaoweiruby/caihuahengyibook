@@ -2033,40 +2033,26 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 
   感觉现在的互联网公司普遍的价值不高，不利于人的快速的成长；
   ---
+  人生就是一場游戲 - 怎樣精彩地展開屬於你的人生游戲？！【好葉】
+  https://www.youtube.com/watch?v=RJ6fkHhELQE（时间的分配）
+  使用启动板从草图发布网站
+  https://www.youtube.com/watch?v=00Hjzw9_YLs
 
-  **产学研 编程 教育 基地：**
-  - （1）完成学生技能培训（魔鬼式训练，帮助学生快速成长）
-  - （2）完成学生就业和创业指导；（精准化指导，帮助学生快速的职业化）
-  - （3）完成企业人才招募：（企业和学校对接，帮助企业和学校更好的完成人才的培养和输送）
-    帮助企业节省找人、用人、培养人的时间；
+  如何制作全屏着陆页（HTML＆CSS）
+  https://www.youtube.com/watch?v=hExwnLlj2xk
+  Design a Website Landing Page in Sketch (Tutorial) [视频编辑不错]
+  https://www.youtube.com/watch?v=Mv3p1LlmdHI
+  在Sketch中设计着陆页面 - 教程
+  https://www.youtube.com/watch?v=EQ8bPVFB33g
+  批踢踢時常與各學術單位
+  https://www.ptt.cc/links.html
 
-  在北京举办活动需要邀请几个 Ruby 公司的创始人来开展分享活动；
-  - 求职应聘：超级简历创始人：朱英楠，分享如何完成简历的撰写；
-     https://github.com/dyz2102
-  - 知识付费：小专栏创始人：diycodecc，分享创业过程的收获和坑；
-     https://github.com/diycodecc
-  - 原型打造：墨刀创始人：张元一，分享产品打造过程中的经验；
-     https://www.zhihu.com/people/zhang-yuan-yi/activities
-  - 技能培训：才华横溢创始人：肖威，分享开办公司所遇到的坑；
-     https://github.com/shenzhoudance
-
-  举办编程比赛，完成人才的输送；
-- （1）原型设计：墨刀
-- （2）技术发表：小专栏
-- （3）就业求职：超级简历
-- （4）创业培训：才华横溢
-- （5）企业实习：推荐就业
-
-  2018
-- 才华横溢 X 墨刀 X 超级简历
-- Coding & Idea & Design
-- change the world
-- 三剑客 快速入职互联网企业；
-- 找到需要招聘的企业，完成企业推荐实习 offor
-
-查看【工作地点】
-
-WeWork Wangjing
-地址：望京广顺南大街16号索尼大厦，望京南地铁站A出口
-
-https://www.wework.com/zh-CN/buildings/wangjing--beijing
+  朱英楠：
+  2008年【笛子】 David Zhu at Arise
+  https://www.youtube.com/watch?v=DFeh-Ber8c4
+  2014年【唱歌】 20141118魔天伦香港站 my duet with Jay Chou - 忍者
+  https://www.youtube.com/watch?v=O9KUE7cmnOs
+  2016年【电子琴】Jay Chou Cover - 周杰伦《热恋篇》
+  https://www.youtube.com/watch?v=Ji6xtXqbnrc
+  2017年【超级简历】
+  https://weibo.com/1679476363/FBB1X4BLM?from=page_1005051679476363_profile&wvr=6&mod=weibotime&type=comment#_rnd1519478258245
