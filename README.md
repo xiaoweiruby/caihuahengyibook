@@ -2063,3 +2063,10 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 - change the world
 - 三剑客 快速入职互联网企业；
 - 找到需要招聘的企业，完成企业推荐实习 offor
+
+查看【工作地点】
+
+WeWork Wangjing
+地址：望京广顺南大街16号索尼大厦，望京南地铁站A出口
+
+https://www.wework.com/zh-CN/buildings/wangjing--beijing
