@@ -2022,3 +2022,13 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   http://designmodo.github.io/Flat-UI/
   http://www.runoob.com/mongodb/nosql.html
   https://www.mongodb.com/
+
+# 2018年02月24日
+  **肖威工作总结**
+  - 上午：撰写小专栏的思考 + Ruby on Rails 的案例思考 + 整理 朱英楠 人生的经历
+  - 下午：撰写小专栏的思考 + 总结自己的人生经历 + 看 Ruby 25 岁 生日
+  https://twitter.com/hashtag/ruby25th
+  查看一些有价值的图片，可以作为活动的参考；
+  - 晚上：整理 Ruby-China 上海 公司的招聘情况；
+
+  感觉现在的互联网公司普遍的价值不高，不利于人的快速的成长；
