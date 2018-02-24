@@ -2032,3 +2032,14 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   - 晚上：整理 Ruby-China 上海 公司的招聘情况；
 
   感觉现在的互联网公司普遍的价值不高，不利于人的快速的成长；
+  ---
+
+  在北京举办活动需要邀请几个 Ruby 公司的创始人来开展分享活动；
+  - 超级简历创始人：朱英楠，分享如何完成简历的撰写；
+     https://github.com/dyz2102
+  - 小专栏创始人：diycodecc，分享创业过程的收获和坑；
+     https://github.com/diycodecc
+  - 墨刀创始人：张元一，分享产品打造过程中的经验；
+     https://www.zhihu.com/people/zhang-yuan-yi/activities
+  - 才华横溢创始人：肖威，分享开办公司所遇到的坑；
+     https://github.com/shenzhoudance
