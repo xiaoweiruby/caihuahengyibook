@@ -2034,25 +2034,38 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   感觉现在的互联网公司普遍的价值不高，不利于人的快速的成长；
   ---
   人生就是一場游戲 - 怎樣精彩地展開屬於你的人生游戲？！【好葉】
-  https://www.youtube.com/watch?v=RJ6fkHhELQE（时间的分配）
+  https://www.youtube.com/watch?v=RJ6fkHhELQE
+
   使用启动板从草图发布网站
   https://www.youtube.com/watch?v=00Hjzw9_YLs
 
   如何制作全屏着陆页（HTML＆CSS）
   https://www.youtube.com/watch?v=hExwnLlj2xk
+
   Design a Website Landing Page in Sketch (Tutorial) [视频编辑不错]
   https://www.youtube.com/watch?v=Mv3p1LlmdHI
+
   在Sketch中设计着陆页面 - 教程
   https://www.youtube.com/watch?v=EQ8bPVFB33g
+
   批踢踢時常與各學術單位
   https://www.ptt.cc/links.html
 
   朱英楠：
   2008年【笛子】 David Zhu at Arise
   https://www.youtube.com/watch?v=DFeh-Ber8c4
+
   2014年【唱歌】 20141118魔天伦香港站 my duet with Jay Chou - 忍者
   https://www.youtube.com/watch?v=O9KUE7cmnOs
+
   2016年【电子琴】Jay Chou Cover - 周杰伦《热恋篇》
   https://www.youtube.com/watch?v=Ji6xtXqbnrc
+
   2017年【超级简历】
   https://weibo.com/1679476363/FBB1X4BLM?from=page_1005051679476363_profile&wvr=6&mod=weibotime&type=comment#_rnd1519478258245
+
+# 2018年02月25日
+  **肖威工作总结**
+  - 上午：撰写小专栏的思考+ Ruby on Rails 的案例思考
+  - 下午：撰写小专栏的思考+ 看小程序开发
+  - 晚上：继续小程序开发
