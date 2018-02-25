@@ -2069,3 +2069,34 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
   - 上午：撰写小专栏的思考+ Ruby on Rails 的案例思考
   - 下午：撰写小专栏的思考+ 看小程序开发
   - 晚上：继续小程序开发
+
+  针对于编程的应用的开发的四步走：
+  1、环境搭建（下载工具 + 注册小程序）
+  2、应用开发（Javascript https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
+  介绍框架文档的网址： https://mp.weixin.qq.com/debug/wxadoc/dev/framework/MINA.html
+  简易教程网址： https://mp.weixin.qq.com/debug/wxadoc/dev/  
+  下载体验官方小程序示例的网址：
+  https://mp.weixin.qq.com/debug/wxadoc/dev/demo.html
+  组件文档网址：
+  https://mp.weixin.qq.com/debug/wxadoc/dev/component/
+  API文档网址：
+  https://mp.weixin.qq.com/debug/wxadoc/dev/api/
+  3、应用部署
+  4、黑客增长
+
+  start small, stay small
+
+  16年Android很火。我想学Android开发，买了《第一行代码》，边看书边搭环境，敲代码。买vpn,用google搜索问题答案。知道了stackoverflow网站,github网站
+
+   (1)网页端开发： Ruby on Rails：
+
+   (2)小程序开发： mini ：
+
+   (3)移动端开发：React-Native学习指南
+   https://github.com/shenzhoudance/react-native-guide
+
+   全栈工程师培训材料
+   https://github.com/llpdev/jstraining
+
+   GitHub Popular
+   https://github.com/llpdev/GitHubPopular
