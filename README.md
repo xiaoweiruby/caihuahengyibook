@@ -2216,6 +2216,6 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
  **肖威工作总结**
  - 上午：完成学校年检材料整理
  - 下午：梳理年审查理 + 完成信息填报
- - 晚上：查看 Ruby on  Rails 案例开发
+ - 晚上：查看 Ruby on  Rails 案例开发1
  https://github.com/xdite?page=15&tab=followers
  商业化的模式里面，只有在一个方面打造出商业化的闭环，才可以开始有价值的创造，全力完成网页端的产品的商业化的闭环，从而更多的产生商业化的价值；
