@@ -2219,3 +2219,7 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
  - 晚上：查看 Ruby on  Rails 案例开发1
  https://github.com/xdite?page=15&tab=followers
  商业化的模式里面，只有在一个方面打造出商业化的闭环，才可以开始有价值的创造，全力完成网页端的产品的商业化的闭环，从而更多的产生商业化的价值；
+
+ hint: Updates were rejected because a pushed branch tip is behind its remote
+ hint: counterpart. Check out this branch and integrate the remote changes
+ ---
