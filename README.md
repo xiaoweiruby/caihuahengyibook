@@ -2232,3 +2232,14 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 - 上午：完成老年大学信息材料整理 + 查看 新生大学 600 人 的 Github 仓库 和 博客；
 - 下午：查仓库 + 看博客 + 写文章
 - 晚上：查看 Ruby on  Rails 案例开发
+
+优秀案例：
+elizachen
+https://github.com/elizachen
+
+智能合约：
+https://github.com/linjie-1/guigulive-operation
+
+硅谷生活·智能合约全栈开发课
+https://github.com/linjie-1?tab=repositories
+https://github.com/shenzhoudance/eos-wallet-app
