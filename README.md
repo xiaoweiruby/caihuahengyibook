@@ -2226,3 +2226,9 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 
  hint: counterpart. Check out this branch and integrate the remote changes
  ---
+
+# 2018年02月27日
+**肖威工作总结**
+- 上午：完成老年大学信息材料整理 + 查看 新生大学 600 人 的 Github 仓库 和 博客；
+- 下午：查仓库 + 看博客 + 写文章
+- 晚上：查看 Ruby on  Rails 案例开发
