@@ -2270,3 +2270,4 @@ http://kerzzi.logdown.com/posts/1523474
 - 晚上：查看小专栏作者仓库：思考如何才可以加速 技术的学习速度，从而完成产品打造最后，使用营销的手段万运营；
 https://github.com/camsong
 https://github.com/josephchang
+https://www.dingxuewen.com/2017/12/25/why-we-never-thank-open-source-maintainers/
