@@ -2243,3 +2243,30 @@ https://github.com/linjie-1/guigulive-operation
 硅谷生活·智能合约全栈开发课
 https://github.com/linjie-1?tab=repositories
 https://github.com/shenzhoudance/eos-wallet-app
+
+# 2018年02月28日
+**肖威工作总结**
+- 上午：Ruby on Rails 练习
+全栈工程师培训材料，帮助学习者掌握JavaScript全栈开发的基本知识，承担简单Web应用的前后端开发。
+https://github.com/ruanyf/jstraining
+
+- 下午：区块链技术开发技术整理
+区块链研习社：
+http://47.104.78.77/
+子的行思笔记：
+https://kerzzi.github.io/
+区块链入门资料查询：
+https://github.com/Kerzzi/BlockChainNotes/tree/master/01-%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99
+
+不管是不是区块链，本质上还是互联网技术，所以还是网页的编程技术，大前端技术的深化；
+
+小程序是前端，移动端是前端，还是需要掌握 Ruby on Rails 的编程技术，才可以实现我们想要做的想法；
+
+macOS 强大的分屏工具：Window Tidy | Matrix 精选
+https://sspai.com/post/36983
+https://railstutorial-china.org/book/
+http://kerzzi.logdown.com/posts/1523474
+
+- 晚上：查看小专栏作者仓库：思考如何才可以加速 技术的学习速度，从而完成产品打造最后，使用营销的手段万运营；
+https://github.com/camsong
+https://github.com/josephchang
