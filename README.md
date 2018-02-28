@@ -2262,5 +2262,11 @@ https://github.com/Kerzzi/BlockChainNotes/tree/master/01-%E5%B8%B8%E7%94%A8%E7%B
 
 小程序是前端，移动端是前端，还是需要掌握 Ruby on Rails 的编程技术，才可以实现我们想要做的想法；
 
+macOS 强大的分屏工具：Window Tidy | Matrix 精选
+https://sspai.com/post/36983
+https://railstutorial-china.org/book/
+http://kerzzi.logdown.com/posts/1523474
 
-- 晚上：思考如何才可以加速 技术的学习速度，从而完成产品打造最后，使用营销的手段万运营；
+- 晚上：查看小专栏作者仓库：思考如何才可以加速 技术的学习速度，从而完成产品打造最后，使用营销的手段万运营；
+https://github.com/camsong
+https://github.com/josephchang
