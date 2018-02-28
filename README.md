@@ -2273,3 +2273,26 @@ https://github.com/josephchang
 https://www.dingxuewen.com/2017/12/25/why-we-never-thank-open-source-maintainers/
 区块链知识结构大全：
 https://github.com/chaozh/awesome-blockchain
+
+寂小桦人生发展线路：
+
+- 求学：
+1990-2008 河源市东源县东源中学
+https://wenku.baidu.com/u/%E5%AD%A4%E8%A1%8C%C2%B7%E5%AF%82%E5%B0%8F%E6%A1%A6?from=wenku
+2008-2012 Android（豆瓣文章）（2010年就在做Android）
+https://weibo.com/apkbus?refer_flag=1005055013_
+- 就业：
+2012-2016 广州程序猿网络科技有限公司 安卓巴士：雪球投资 （雪球文章）
+https://xueqiu.com/u/1114297801
+https://www.douban.com/people/49066519/
+https://www.diycode.cc/
+
+- 创业：
+2016-2018 小专栏
+https://www.xiaozhuanlan.com
+
+- 投资：
+投资美股
+投资比特币
+
+具备技术能力，具备投资能力，爱好健身
