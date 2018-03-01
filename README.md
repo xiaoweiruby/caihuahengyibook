@@ -2317,3 +2317,9 @@ http://www.bucm.edu.cn/xxxw/1943.htm
 ---
 2014-2018 年的时间节点厘米，这个时间发生的动态是在是太大；
 有些人还在原地，有些人已经走了很远；
+
+20180225 Xdite 有關「數位貨幣」、不可不知的事
+https://photos.google.com/share/AF1QipMhY-Qw0N8r6Q-BBj9TzjX02DJWrsYIOFSFrb4Iay17XZsF9LgLVFYtnIdCopIoaw?key=TDZpY1pBaXA1M1J0S1NpTFZaZWFWSERkY3lCcHNn
+
+李笑來 演講整理
+http://zaklee.logdown.com/posts/2909520-xiaolai-speech
