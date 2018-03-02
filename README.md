@@ -2338,4 +2338,37 @@ http://open.163.com/movie/2014/9/G/N/MA8CUF9DQ_MA8CV1LGN.html
 以太坊开发入门，完整入门
 https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe
 - 下午：梳理 Ruby on Rails 技术文档
+
+使用ReactNative开发的GitBook阅读器，可以查看在线的书籍信息，在线阅读和下载。
+https://github.com/le0zh/gitbook-reader-rn/blob/master/README.md
+
+代码家：Android的开发路线图
+https://blog.daimajia.com/
+https://daimajia.com/2013/05
+
+林惠文 峰瑞资本 移动端及后端工程师
+
+- 1991-2009 高中阶段：侯杰 《深入浅出 MFC 》
+- 2009-2013 西北大学，本科阶段 西安读大学，无尽画廊
+实习：上海-用户增长（创新工场上海区志精网络）
+认识少楠，加入 AT 做 AnimeTaste 再到 EverMemo ；
+- 2013-2016 北京师范大学，研究生阶段：小熊词典  Gank.io ，Waibao.io ，
+https://daimajia.com/2013/03/19/about-me
+- 2016-2018 峰瑞资本，比特币区块链研究；
+区块链世界来龙去脉，峰瑞资本内部分享
+https://daimajia.com/2018/02
+https://www.freesvc.com/team
+2013：感觉得去读个研缓一缓，浑水摸鱼的进了北师大，保研完后的几个月闲的要死，开始认真的逛起了GitHub，又申请了暑假的实习，那个实习完完全全的改变了我对很多事情的看法和未来研究生的日子。我开始做东西了，认认真真的做东西了。
+
+《Android 应用安全防护和逆向分析》
+https://item.jd.com/12271376.html
+动态调试Android APP
+https://ldmf.net/archives/44.html
 - 晚上：实践项目操作
+
+扔物线：
+网页端开发：
+移动端开发：
+微信端开发：
+
+区块链开发：
