@@ -2323,3 +2323,19 @@ https://photos.google.com/share/AF1QipMhY-Qw0N8r6Q-BBj9TzjX02DJWrsYIOFSFrb4Iay17
 
 李笑來 演講整理
 http://zaklee.logdown.com/posts/2909520-xiaolai-speech
+
+
+# 2018年03月02日
+**肖威工作总结**
+- 上午：查看 创业课程 + 区块链文章 体系
+
+YC创业课文本可以点这里：
+http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b
+
+YC创业课视频可以看这里：
+http://open.163.com/movie/2014/9/G/N/MA8CUF9DQ_MA8CV1LGN.html
+
+以太坊开发入门，完整入门
+https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe
+- 下午：梳理 Ruby on Rails 技术文档
+- 晚上：实践项目操作
