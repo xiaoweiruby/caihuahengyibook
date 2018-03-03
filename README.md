@@ -2427,3 +2427,6 @@ IT 帮人赛
 https://ithelp.ithome.com.tw/ironman/
 你知道 Git 是怎麼一回事嗎
 https://www.youtube.com/watch?v=LgTf7m5B0xA
+
+長期冥想的人不會告訴你的秘密
+https://www.youtube.com/watch?v=ln8RvN64i5s
