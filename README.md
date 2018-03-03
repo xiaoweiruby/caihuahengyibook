@@ -2376,5 +2376,44 @@ https://ldmf.net/archives/44.html
 # 2018年03月03日
 **肖威工作总结**
 - 上午：医院检查身体 + 收听 代码家 区块链 分享 + Gihbook Ruby 的查看；
+真实世界的理解 + 信息世界的理解 + 虚拟世界的理解
 - 下午：区块链 + Ruby
+1-50
+https://www.gitbook.com/search?q=ruby%20on%20rails&page=19&type=books&sort=default
 - 晚上：查看 Ruby on  Rails 案例开发
+在Mac OS X 10.11 El Capitan 上设置Ruby On Rails
+https://gorails.com/setup/osx/10.11-el-capitan
+为Rails Girls设置配方
+http://guides.railsgirls.com/install
+Ruby on Rails 3
+https://wizardforcel.gitbooks.io/rails-tutorial/content/6.html
+命令版本
+https://toumasaya.gitbooks.io/ruby-on-rails-tutorial-note/content/chapter_6/6_1_1_database_migrations.html
+為你自己學 Ruby on Rails
+https://railsbook.tw/
+关于「Rails边学边记」
+https://rails.zwb.io/
+参看有价值网站：
+https://campus.5xruby.tw/
+https://5xruby.tw/
+学习-ruby-on-rails
+https://github.com/kaochenlong/learn-ruby-on-rails/tree/master/markdown
+API on Rails
+https://api-on-rails.alessandro.codes/book/chapter-1/2-embrace-http.html
+Ruby on Rails实战
+https://yeyong14.gitbooks.io/rails/content/
+Ruby 程序员学习 laravel 框架笔记
+https://www.rails365.net/books
+前端知识点归纳
+https://tycn.gitbooks.io/css/content/html/htmlyu-yi-hua.html
+Rails 5 开发进阶
+https://book.a-bitcoin.com/activejob/
+红宝石101 老外写的一本书
+https://www.oreilly.com/
+网站的样式不错：
+https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+
+ruby-ethereum
+https://kelby.gitbooks.io/ruby-ethereum/content/
+Ruby实作区块练 - 认识区块链
+https://www.gitbook.com/book/wilicw/ruby-block-chain/details
