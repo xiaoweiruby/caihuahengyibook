@@ -2372,3 +2372,9 @@ https://ldmf.net/archives/44.html
 微信端开发：
 
 区块链开发：
+
+# 2018年03月03日
+**肖威工作总结**
+- 上午：医院检查身体 + 收听 代码家 区块链 分享 + Gihbook Ruby 的查看；
+- 下午：区块链 + Ruby
+- 晚上：查看 Ruby on  Rails 案例开发
