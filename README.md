@@ -2380,7 +2380,7 @@ https://ldmf.net/archives/44.html
 - 下午：区块链 + Ruby
 1-50
 https://www.gitbook.com/search?q=ruby%20on%20rails&page=19&type=books&sort=default
-- 晚上：查看 Ruby on  Rails 案例开发
+
 在Mac OS X 10.11 El Capitan 上设置Ruby On Rails
 https://gorails.com/setup/osx/10.11-el-capitan
 为Rails Girls设置配方
@@ -2417,3 +2417,13 @@ ruby-ethereum
 https://kelby.gitbooks.io/ruby-ethereum/content/
 Ruby实作区块练 - 认识区块链
 https://www.gitbook.com/book/wilicw/ruby-block-chain/details
+
+- 晚上：查看 Ruby on  Rails 案例开发
+台湾活动行：
+https://www.accupass.com/event/1706260656011374903823
+親愛的，我把 GitHub 拿來收作業了!
+https://kaochenlong.com/2017/12/12/use-github-for-homework/
+IT 帮人赛
+https://ithelp.ithome.com.tw/ironman/
+你知道 Git 是怎麼一回事嗎
+https://www.youtube.com/watch?v=LgTf7m5B0xA
