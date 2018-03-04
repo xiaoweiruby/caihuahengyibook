@@ -2430,3 +2430,44 @@ https://www.youtube.com/watch?v=LgTf7m5B0xA
 
 長期冥想的人不會告訴你的秘密
 https://www.youtube.com/watch?v=ln8RvN64i5s
+
+# 2018年03月04日
+**肖威工作总结**
+全栈技术开发体系：
+- 上午：网页端+移动端 技术开发；
+Deeperience- react-native
+https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/
+https://blog.techbridge.cc/2016/09/10/react-native-redux-android-firebase/
+https://blog.kdchang.cc
+財報分析入門筆記
+https://blog.kdchang.cc/2017/06/30/financial-statements-analysis-introduction/
+
+- 下午：区块链 技术开发；
+代码家：
+https://daimajia.com/2018/02
+
+郑伊廷：
+https://photos.app.goo.gl/6F6BURcjNSHe1RmJ2
+
+梳理容器打造的逻辑体系：
+网页端容器打造技术：内容流量 + 完成服务
+移动端容器打造技术：内容流量 + 完成服务
+
+构建容器体系 + 服务体系 + 交易体系
+【消耗者 + 创造者 + 交易者】
+
+梳理区块链构建的逻辑体系：
+构建自己对于区块链技术的逻辑体系的认知：
+
+（1）币圈的情况的历史发展（币圈从业的方式）
+（2）链圈的情况的历史发展（链圈从业的方式）
+（3）连接币圈和链圈的交易所（交易所从业的方式）
+
+区块链本身的创造是公司化的行为，公司化的行为的本身是人的行为；
+
+一个公司创造币，一个公司发行币，一个公司购买币；
+购买币的本身是购买一家公司未来的发展，也就是股东红利的价值，需要看到未来公司的盈利的模式，这样才可以比较好的完成公司的代币的购买，从而在一段相当长的时间里面完成持有；
+
+投资的本身是投资一家公司未来的成长的空间，股价和币价都是人们对于未来公司的期望的一种价值的判断；
+
+- 晚上：小程序 技术开发
