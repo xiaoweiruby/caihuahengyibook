@@ -2473,3 +2473,11 @@ https://photos.app.goo.gl/6F6BURcjNSHe1RmJ2
 - 晚上：小程序 技术开发
 这个孩子一直在练习 xdite 的案例，关键是 xdite 的案例不完全，这样下去其实难以达到真正提升的目的，但是这一种学习的力量和执行的力量，非常的值得人学习，她需要一个机会，才可以快速的提升自己。
 https://github.com/jiaowagn
+给购物网站加入客服系统 intercom
+http://wangjiao-blog.logdown.com/posts/1930735-6-7-shopping-site-to-join-the-customer-service-system-intercom
+Rails 第一课：环境建置
+http://wangjiao-blog.logdown.com/posts/2190629-rails-first-lesson-environment-building
+Linux 云服务器部署运维
+http://wangjiao-blog.logdown.com/posts/2260929-linux-cloud-server-deployment-operation-and-maintenance
+Anndo 全棧營紀錄
+http://anndo-blog.logdown.com/
