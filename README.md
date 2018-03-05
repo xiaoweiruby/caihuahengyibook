@@ -2471,6 +2471,19 @@ https://photos.app.goo.gl/6F6BURcjNSHe1RmJ2
 投资的本身是投资一家公司未来的成长的空间，股价和币价都是人们对于未来公司的期望的一种价值的判断；
 
 - 晚上：小程序 技术开发
+
+
+# 2018年03月05日
+**肖威工作总结**
+- 上午：小专栏写作 + 区块链案例查看 + 网站编写案例查看；
+重新定义微信小程序的开发 https://qiu8310.github.io/minapp/
+程序员如何申请到澳洲工作 https://www.v2ex.com/t/432919
+真实世界的理解 + 信息世界的理解 + 虚拟世界的理解
+- 下午：区块链 + Ruby
+使用 Ruby on Rails 和 Bluemix 构建一个博客应用程序
+https://www.ibm.com/developerworks/cn/cloud/library/cl-blograils-app/
+http://railscasts.com/
+
 这个孩子一直在练习 xdite 的案例，关键是 xdite 的案例不完全，这样下去其实难以达到真正提升的目的，但是这一种学习的力量和执行的力量，非常的值得人学习，她需要一个机会，才可以快速的提升自己。
 https://github.com/jiaowagn
 给购物网站加入客服系统 intercom
@@ -2481,3 +2494,4 @@ Linux 云服务器部署运维
 http://wangjiao-blog.logdown.com/posts/2260929-linux-cloud-server-deployment-operation-and-maintenance
 Anndo 全棧營紀錄
 http://anndo-blog.logdown.com/
+
