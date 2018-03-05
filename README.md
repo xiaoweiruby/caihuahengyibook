@@ -2505,4 +2505,6 @@ http://api.rubyonrails.org/
 Ruby on Rails教程（Rails 5）
 https://www.railstutorial.org/book
 
-现在做大的问题是理解之后的实际化的操作，不然难以快速的掌握其中的核心的框架；
+Michael Hartl是Ruby on Rails教程的作者，该教程是Web开发的主要介绍之一，也是教育网站Learn Enough to Dangerous（learnenough.com）的创始人。他之前的经验包括编写和开发RailsS​​pace，一本非常过时的Rails教程书，以及开发一个曾经流行且已经过时的Ruby on Rails社交网络平台Insoshi。2011年，Michael 因为对Ruby社区的贡献而获得了Ruby Hero奖。他毕业于哈佛大学，拥有博士学位。来自加州理工学院的物理学学士学位，并且是Y Combinator企业家计划的校友。
+
+肖威是《积木化编程》的主要作者，该教程是全栈工程师的入门级教程之一，也是教育网站 school.com 的创始人。
