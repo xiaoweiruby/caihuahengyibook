@@ -2497,3 +2497,12 @@ http://anndo-blog.logdown.com/
 
 一个不太好理解的 Gitbook 的使用方法：
 https://toolchain.gitbook.com/syntax/markdown.html#footnotes
+
+完全理解 Ruby on Rails 的程序的运作的法则：
+http://guides.rubyonrails.org/getting_started.html
+http://guides.rubyonrails.org/
+http://api.rubyonrails.org/
+Ruby on Rails教程（Rails 5）
+https://www.railstutorial.org/book
+
+现在做大的问题是理解之后的实际化的操作，不然难以快速的掌握其中的核心的框架；
