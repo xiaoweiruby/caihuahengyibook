@@ -2479,3 +2479,6 @@ https://photos.app.goo.gl/6F6BURcjNSHe1RmJ2
 程序员如何申请到澳洲工作 https://www.v2ex.com/t/432919
 真实世界的理解 + 信息世界的理解 + 虚拟世界的理解
 - 下午：区块链 + Ruby
+使用 Ruby on Rails 和 Bluemix 构建一个博客应用程序
+https://www.ibm.com/developerworks/cn/cloud/library/cl-blograils-app/
+http://railscasts.com/
