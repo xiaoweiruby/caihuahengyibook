@@ -2495,3 +2495,5 @@ http://wangjiao-blog.logdown.com/posts/2260929-linux-cloud-server-deployment-ope
 Anndo 全棧營紀錄
 http://anndo-blog.logdown.com/
 
+一个不太好理解的 Gitbook 的使用方法：
+https://toolchain.gitbook.com/syntax/markdown.html#footnotes
