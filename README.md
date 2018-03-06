@@ -2534,4 +2534,10 @@ hexo你的博客: http://ibruce.info/2013/11/22/hexo-your-blog/
 用 Travis-CI 生成 Github Pages 博客: https://farseerfc.me/travis-push-to-github-pages-blog.html
 
 、
-- 下午：区块链 + Ruby
+- 下午：
+排名：
+http://githubrank.com/
+腾讯：
+https://github.com/Tencent
+android-open-project
+https://github.com/kesenhoo/android-open-project#fork-destination-box
