@@ -2508,3 +2508,30 @@ https://www.railstutorial.org/book
 Michael Hartl是Ruby on Rails教程的作者，该教程是Web开发的主要介绍之一，也是教育网站Learn Enough to Dangerous（learnenough.com）的创始人。他之前的经验包括编写和开发RailsS​​pace，一本非常过时的Rails教程书，以及开发一个曾经流行且已经过时的Ruby on Rails社交网络平台Insoshi。2011年，Michael 因为对Ruby社区的贡献而获得了Ruby Hero奖。他毕业于哈佛大学，拥有博士学位。来自加州理工学院的物理学学士学位，并且是Y Combinator企业家计划的校友。
 
 肖威是《积木化编程》的主要作者，该教程是全栈工程师的入门级教程之一，也是教育网站 school.com 的创始人。
+
+# 2018年03月06日
+**肖威工作总结**
+- 上午：阅读高手 + 查看 GcsSloop + 网站编写案例查看；
+简书上的程序员是什么水平？
+https://www.jianshu.com/p/d097bca19c4e
+5分钟 搭建免费个人博客
+https://www.jianshu.com/p/4eaddcbe4d12
+FOUR - 一个27岁零基础无业游民的第一个开源作品
+https://www.jianshu.com/p/aef225ae1502
+安卓同学：
+http://tiki.cat/2017/07/06/android-studio-use-git/#more
+1994-2012
+2012-2016
+相关博客
+http://sketchk.xyz/2017/03/24/A-Guide-Of-Making-Your-Personal-Blog-Part-6/
+
+史上最详细的Hexo博客搭建图文教程: https://xuanwo.org/2015/03/26/hexo-intor/
+手把手教你使用Hexo + Github Pages搭建个人独立博客: https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/
+hexo你的博客: http://ibruce.info/2013/11/22/hexo-your-blog/
+用 Travis CI 自動部署網站到 GitHub: https://zespia.tw/blog/2015/01/21/continuous-deployment-to-github-with-travis/
+使用 Travis CI 自动更新 GitHub Pages: http://notes.iissnan.com/2016/publishing-github-pages-with-travis-ci/
+基于 Hexo 的全自动博客构建部署系统：http://kchen.cc/2016/11/12/hexo-instructions/
+用 Travis-CI 生成 Github Pages 博客: https://farseerfc.me/travis-push-to-github-pages-blog.html
+
+、
+- 下午：区块链 + Ruby
