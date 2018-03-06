@@ -2516,10 +2516,8 @@ Michael Hartl是Ruby on Rails教程的作者，该教程是Web开发的主要介
 https://www.jianshu.com/p/d097bca19c4e
 5分钟 搭建免费个人博客
 https://www.jianshu.com/p/4eaddcbe4d12
-FOUR - 一个27岁零基础无业游民的第一个开源作品
-https://www.jianshu.com/p/aef225ae1502
-安卓同学：
-http://tiki.cat/2017/07/06/android-studio-use-git/#more
+
+
 1994-2012
 2012-2016
 相关博客
@@ -2563,10 +2561,25 @@ Nginx开发从入门到精通 https://github.com/vincent4j/nginx-book
  思考第一部分：
  容器打造：
  - 网页端 + 移动端 + 微信端
+
+ 一、网页端开发：
  前端技术开发 + 后台技术开发
+
+ 二、移动端开发
+
+ （1）ios 开发：
+ FOUR - 一个27岁零基础无业游民的第一个开源作品
+ https://www.jianshu.com/p/aef225ae1502
+
+ （2）Android 开发：
+ 安卓同学：
+ http://tiki.cat/about/
+
+ （3)微信端开发：
 
  思考第二部分：
  内容打造：视频 + 文字 + 音频 + 图片
+
  - 区块链项目开发
  币圈 + 链圈 + 交易所
 
