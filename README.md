@@ -2541,3 +2541,17 @@ http://githubrank.com/
 https://github.com/Tencent
 android-open-project
 https://github.com/kesenhoo/android-open-project#fork-destination-box
+操作系统的基本原理与简单实现
+https://chyyuu.gitbooks.io/simple_os_book/
+“Java程序员眼中的Linux”
+https://github.com/judasn/Linux-Tutorial
+Following 3.8k
+https://github.com/tvvocold
+Following 4.9k
+https://github.com/pisual
+
+产品经理周刊 - 每周周一晚上9点推送经人工筛选出的产品精品文章 http://pmweekly.com
+Nginx开发从入门到精通 https://github.com/vincent4j/nginx-book
+
+ http://blockchain.liuchengxu.org/
+ 一步一步的区块链教程
