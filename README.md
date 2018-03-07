@@ -2594,6 +2594,24 @@ Nginx开发从入门到精通 https://github.com/vincent4j/nginx-book
 **肖威工作总结**
 - 上午：梳理培训大纲
 方案 + 执行 + 考核 + 推荐
+http://stormzhang.com/
+
+http://blog.csdn.net/ttdevs/
+
+http://w4lle.github.io/
+
+http://www.jianshu.com/users/9038233c5f2c/
+
+http://loody.github.io/
+
+http://kaywu.github.io/
+简书ID：达达达达sky
+
+GitHub：https://github.com/Skykai521
+
+简书博客：http://www.jianshu.com/users/9038233c5f2c/latest_articles
+ AS技巧合集「常用技巧篇」
+ https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139&scene=21#wechat_redirect
 - 下午：学习时间 得到 + Ruby on Rails
 
 得到例会：怎样提高工作效率 2018/03/06
