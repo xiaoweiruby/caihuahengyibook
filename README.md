@@ -22,6 +22,8 @@
 - *投资：有能力的人打造公司，帮助想要改变世界的人获得成功*
 - *分享：分享自己人生经验，帮助更多的人获得成功*
 
+https://www.zastrin.com/
+https://www.jianshu.com/u/daf68451f175
 Dovoas. 2013-05-22 09:57
 来源：《The Little Book of Talent》
 笔记： Zen
