@@ -2,6 +2,8 @@
 
 # 才华横溢技术文档
 
+（功能体系 + 设计体系 + 用户体系 + 部署体系 + 支付体系 + 推广体系 + 交易体系 + 服务体系）
+
 才华横溢科技（北京）有限责任公司 **当下** 公司整体的发展部署
 - *愿景：我们是一所帮助普通人获得成功的在线职业技能大学*
 - *目标：我们需要寻找有价值的思想和技能完成内容体系的传输*
@@ -2605,5 +2607,19 @@ https://www.youtube.com/watch?v=t3ZmqYIp5JM
 
 区块链技术解释（2小时课程）
 https://www.youtube.com/watch?v=qOVAbKKSH10
-
+在2017年破解你的增长的10个最佳工具
+https://medium.com/mad-kings-growth-blog/the-10-best-tools-to-hack-your-growth-in-2017-cb6b508423d1
 - 晚上：
+完整的Ruby on Rails博客应用教程（零部署在Heroku + AWS上）
+https://medium.com/@bruno_boehm/full-blog-app-tutorial-on-rails-zero-to-deploy-4c19e8174791
+
+Tutorial dapp with Solidity, Truffle, Web3 and Javascript
+https://www.youtube.com/watch?v=9FYGSYZSJYg
+以太坊宠物店
+http://truffleframework.com/tutorials/pet-shop
+Ethereum Explained
+https://www.youtube.com/watch?v=-_Qs0XdPpw8
+Learning Solidity : Tutorial 1 The Basics
+https://www.youtube.com/watch?v=v_hU0jPtLto
+全堆栈Hello World投票以太坊Dapp教程 - 第1部分
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
