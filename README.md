@@ -2588,17 +2588,22 @@ Nginx开发从入门到精通 https://github.com/vincent4j/nginx-book
  ---
 # 2018年03月07日
 **肖威工作总结**
-上午：梳理培训大纲
+- 上午：梳理培训大纲
 方案 + 执行 + 考核 + 推荐
-下午：学习时间
-得到 + Ruby on Rails
+- 下午：学习时间 得到 + Ruby on Rails
+
 得到例会：怎样提高工作效率 2018/03/06
 https://www.jianshu.com/p/f6c4b2a902da
+
 为什么Rails的创始人自动拒绝80％的软件工程师申请人
 https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58
+
 Building a Forum Application with Ruby on Rails 5 and Material Design - Part 4
 https://www.youtube.com/watch?v=t3ZmqYIp5JM
+
 （功能体系 + 设计体系 + 用户体系 + 部署体系 + 支付体系 + 推广体系）
+
 区块链技术解释（2小时课程）
 https://www.youtube.com/watch?v=qOVAbKKSH10
-晚上：
+
+- 晚上：
