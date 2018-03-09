@@ -2643,3 +2643,32 @@ Learning Solidity : Tutorial 1 The Basics
 https://www.youtube.com/watch?v=v_hU0jPtLto
 全堆栈Hello World投票以太坊Dapp教程 - 第1部分
 https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
+
+# 2018年03月08日
+**肖威工作总结**
+- 上午：查看 stormzhang 6人 博客 ；
+- 下午：使用区块链投票项目实践
+- 晚上：使用网页端投票项目实战
+
+# 2018年03月09日
+**肖威工作总结**
+- 上午：完成 raddit 案例的梳理 40分钟 ；
+- 下午：完成 时间线梳理 体系教学 + raddit 案例 梳理 ；
+
+https://masteruby.github.io/weekly-rails.html
+每周Rails
+在这些系列教程中，您将学习如何创建rails应用程序。
+2014年8月12日 » 如何在Rails中添加用户Karma
+08 8月2014 » 如何使用Commontator将评论添加到Rails应用程序
+05八月2014 » 如何添加投票到Rails应用程序
+06 Jun 2014 » 如何在Rails中创建链接聚合站点：添加，编辑，删除链接
+04 Apr 2014 » 如何在rails中创建待办事项列表应用程序，添加，删除和删除任务
+2014年3月22日 » 如何在rails中创建待办事项列表应用程序
+
+如何在Rails 5中构建Pinterest Clone
+https://rubyplus.com/articles/4041-How-to-build-a-Pinterest-Clone-in-Rails-5
+
+技术篇：使用gem'acts_as_votable'制作点赞功能
+http://xyy601-blog.logdown.com/posts/1463497-technical-article-using-functions-like-the-gem-acts-as-votable-making-points
+
+- 晚上：查看 stormzhang 6人 博客 ；
