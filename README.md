@@ -2665,10 +2665,35 @@ https://masteruby.github.io/weekly-rails.html
 04 Apr 2014 » 如何在rails中创建待办事项列表应用程序，添加，删除和删除任务
 2014年3月22日 » 如何在rails中创建待办事项列表应用程序
 
+可以参考的首页展示图：
+https://tutorials.railsapps.org/
+
 如何在Rails 5中构建Pinterest Clone
 https://rubyplus.com/articles/4041-How-to-build-a-Pinterest-Clone-in-Rails-5
 
 技术篇：使用gem'acts_as_votable'制作点赞功能
 http://xyy601-blog.logdown.com/posts/1463497-technical-article-using-functions-like-the-gem-acts-as-votable-making-points
 
-- 晚上：查看 stormzhang 6人 博客 ；
+https://tutorials.railsapps.org/?_ga=2.46401957.32073111.1520581870-977446177.1520581870#plans
+在Rails 5.1中使用Devise登录功能的Api Webapp
+https://rubyplus.com/articles
+- 晚上：How to build a blog in rails 4 ；
+https://www.youtube.com/watch?v=BI_VnnOLSKY&t=5s
+
+[Rails] Ruby on Rails install on Mac 安裝步驟
+http://blog.niclin.tw/posts/736075-ruby-on-rails-install-on-mac-installation-practices
+
+[Rails]一鍵將Rails佈署(Deploy)到VPS上
+http://blog.niclin.tw/posts/874388-rails-a-key-to-rails-disposal-deploy-on-a-vps
+
+Linux 基本指令
+http://blog.niclin.tw/posts/1613558
+
+[Rails] Rails 5 + OmniAuth + Devise实作可扩充的第三方网站登入（Facebook，Google）
+http://blog.niclin.tw/posts/2219910
+
+[CSS] 團隊協作規範
+http://blog.niclin.tw/posts/2209171
+
+Sublime Text 2 + Emmet外掛
+http://blog.niclin.tw/posts/384066-sublime-text-2-emmet-plug-in
