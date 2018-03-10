@@ -2697,3 +2697,15 @@ http://blog.niclin.tw/posts/2209171
 
 Sublime Text 2 + Emmet外掛
 http://blog.niclin.tw/posts/384066-sublime-text-2-emmet-plug-in
+
+# 2018年03月10日
+**肖威工作总结**
+- 上午：教学
+- 下午：教学
+- 晚上：民政局年审 + ruby 网站制作练习
+[Ruby on Rails][功能] 14. 金流介紹與前置作業(以智付通為例)
+https://www.youtube.com/watch?v=uZj45x_JBrc
+[Ruby on Rails][範例] 01. 募資網站課程功能介紹
+https://www.youtube.com/watch?v=iaD3VNzJGN8
+Ruby on Rails 從頭開始
+https://www.youtube.com/watch?v=IVWkKn_8GiQ&list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh
