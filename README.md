@@ -2709,3 +2709,18 @@ https://www.youtube.com/watch?v=uZj45x_JBrc
 https://www.youtube.com/watch?v=iaD3VNzJGN8
 Ruby on Rails 從頭開始
 https://www.youtube.com/watch?v=IVWkKn_8GiQ&list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh
+
+# 2018年03月11日
+
+**肖威工作总结**
+- 上午：整理学校年检材料
+- 下午：坐车去荆门
+- 晚上：做火车去北京
+
+# 2018年03月12日
+
+**肖威工作总结**
+- 上午：做火车到北京西站
+- 下午：对接财务 + 公积金对接
+- 晚上：思考课程大纲 + 教育培训 + 人才输送 + 产品打造
+打造真正对于社会起推动作用的产品，从而依靠产品完成社会的立足；
