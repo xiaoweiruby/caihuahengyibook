@@ -2725,5 +2725,16 @@ https://www.youtube.com/watch?v=IVWkKn_8GiQ&list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqL
 - 晚上：思考课程大纲 + 教育培训 + 人才输送 + 产品打造
 
 https://ruby-china.org/topics/35220
+Node.js开发加密货币
+http://bitcoin-on-nodejs.ebookchain.org/0-%E5%BC%80%E7%AF%87%E7%9A%84%E8%AF%9D/4-%E5%85%B3%E4%BA%8E%E6%9C%AC%E4%B9%A6.html
+掌握以太坊，Andreas M. Antonopoulos，Gavin Wood
+ https://ethereumbook.info/
 
+ 分享好东西。如何不飞去美国参加 Conf 就参加干货学习。
+
+这是 YC 举办的天使投资人课程，上个礼拜在硅谷举办的。我几乎是当天影片一出就送翻译。翻完就直接拿到了全文字版。
+
+https://github.com/xdite/yc-investor-school
+
+https://investor.startupschool.org/
 打造真正对于社会起推动作用的产品，从而依靠产品完成社会的立足；
