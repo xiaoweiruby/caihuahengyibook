@@ -2723,4 +2723,7 @@ https://www.youtube.com/watch?v=IVWkKn_8GiQ&list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqL
 - 上午：做火车到北京西站
 - 下午：对接财务 + 公积金对接
 - 晚上：思考课程大纲 + 教育培训 + 人才输送 + 产品打造
+
+https://ruby-china.org/topics/35220
+
 打造真正对于社会起推动作用的产品，从而依靠产品完成社会的立足；
