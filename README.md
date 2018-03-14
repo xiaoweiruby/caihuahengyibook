@@ -2742,10 +2742,11 @@ https://investor.startupschool.org/
 # 2018年03月13日
 **肖威工作总结**
 - 上午：教学视频查看：Web-Crunch 案例 + Mackenzie Child + Ryan Hemrick + Progress Bar 進度條線上課程
+```
 Web：https://www.youtube.com/user/webcrunchblog/videos
 Mackenzie：https://www.youtube.com/user/mackenziechild
 Ryan Hemrick：https://www.youtube.com/user/IHemrick/videos
 Progress：https://www.youtube.com/channel/UCx9zGDevKEZ21ihod8A0i-w
-
+```
 - 下午：教学
 - 晚上：民政局年审 + ruby 网站制作练习
