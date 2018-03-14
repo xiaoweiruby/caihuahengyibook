@@ -2749,4 +2749,17 @@ Ryan Hemrick：https://www.youtube.com/user/IHemrick/videos
 Progress：https://www.youtube.com/channel/UCx9zGDevKEZ21ihod8A0i-w
 ```
 - 下午：教学
+```
+Rails 5 开发进阶
+https://www.gitbook.com/book/kelby/rails-beginner-s-guide/details
+Playbook 中文版序
+https://www.gitbook.com/book/beansmile-gitbook/playbook-cn/details
+谈谈ruby的线程
+http://www.beansmile.com/blog/posts/thread-talk-by-lan
+2018年版的我们的前端开发手册
+https://github.com/shenzhoudance/front-end-handbook-2018
+您可以在30秒或更短的时间内了解的有用的CSS代码片
+http://caibaojian.com/30-seconds-of-css/
+```
+
 - 晚上：民政局年审 + ruby 网站制作练习
