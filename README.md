@@ -2783,7 +2783,7 @@ http://caibaojian.com/30-seconds-of-css/
 
 肖威 技术 作品：https://github.com/shenzhoudance/jimucoding
 
-肖威 商业 作品：http://www.caihuahengyi.cn / http://www.dongnishijian.cn
+肖威 商业 作品：http://www.caihuahengyi.cn / http://www.dongnishijian.com
 
 - 下午：Mackenzie Child 案例 5-6
 - 晚上：Mackenzie Child 案例 7-8
