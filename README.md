@@ -2786,6 +2786,7 @@ http://caibaojian.com/30-seconds-of-css/
 肖威 商业 作品：http://www.caihuahengyi.cn / http://www.dongnishijian.com
 
 - 下午：Mackenzie Child 案例 5-6
+
 Hexo+GitHub Pages+NexT来搭建属于自己的博客
 https://shengshengshini.github.io/
 
@@ -2794,5 +2795,11 @@ https://shengshengshini.github.io/%E7%94%A8Hexo-GitHub-Pages%E6%90%AD%E5%BB%BA%E
 
 Hexo+NexT搭建属于自己的博客（二）
 https://shengshengshini.github.io/Hexo-NexT%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%BA%8C%EF%BC%89.html/
+
+Hexo+GitHub Pages搭建简洁优雅的个人博客
+daigz1224.github.io
+
+手把手教你使用Hexo + Github Pages搭建个人独立博客
+http://jiji262.github.io/2016/04/15/2016-04-15-hexo-github-pages-blog/
 
 - 晚上：Mackenzie Child 案例 7-8
