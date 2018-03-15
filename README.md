@@ -2776,9 +2776,13 @@ http://caibaojian.com/30-seconds-of-css/
 - 上午：修改 个人 简历（人生经历） + 完善 工作 日志（个人自传） + 完善 思想 撰写（个人作品）
 
 肖威 个人 简历：https://github.com/shenzhoudance/jianli
+
 肖威 工作 日志：https://github.com/shenzhoudance/xiaoweiworkday
+
 肖威 思想 作品：https://github.com/shenzhoudance/caihuathink
+
 肖威 技术 作品：https://github.com/shenzhoudance/jimucoding
+
 肖威 商业 作品：http://www.caihuahengyi.cn / http://www.dongnishijian.cn
 
 - 下午：Mackenzie Child 案例 5-6
