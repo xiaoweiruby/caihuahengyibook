@@ -2763,3 +2763,23 @@ http://caibaojian.com/30-seconds-of-css/
 ```
 
 - 晚上：民政局年审 + ruby 网站制作练习
+
+# 2018年03月14日
+**肖威工作总结**
+- 上午：Mackenzie Child 案例 + 公积金办理
+- 下午：Mackenzie Child 案例
+- 晚上：聊天 职业 规划
+
+
+# 2018年03月15日
+**肖威工作总结**
+- 上午：修改 个人 简历（人生经历） + 完善 工作 日志（个人自传） + 完善 思想 撰写（个人作品）
+
+肖威 个人 简历：https://github.com/shenzhoudance/jianli
+肖威 工作 日志：https://github.com/shenzhoudance/xiaoweiworkday
+肖威 思想 作品：https://github.com/shenzhoudance/caihuathink
+肖威 技术 作品：https://github.com/shenzhoudance/jimucoding
+肖威 商业 作品：http://www.caihuahengyi.cn / http://www.dongnishijian.cn
+
+- 下午：Mackenzie Child 案例 5-6
+- 晚上：Mackenzie Child 案例 7-8
