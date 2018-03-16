@@ -2803,3 +2803,12 @@ daigz1224.github.io
 http://jiji262.github.io/2016/04/15/2016-04-15-hexo-github-pages-blog/
 
 - 晚上：Mackenzie Child 案例 7-8
+
+# 2018年03月16日
+**肖威工作总结**
+- 上午：案例体系整理
+Travel Guide - React Native Sketch Elements
+https://www.youtube.com/watch?v=ryid9u15NYA
+- 下午：案例体系整理
+- 晚上：案例体系整理
+https://bitcoinbook.info/whats-new/
