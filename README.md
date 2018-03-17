@@ -2812,3 +2812,44 @@ https://www.youtube.com/watch?v=ryid9u15NYA
 - 下午：案例体系整理
 - 晚上：案例体系整理
 https://bitcoinbook.info/whats-new/
+
+Android Performance
+http://androidperformance.com/2018/01/06/2017%E5%B9%B4%E5%BA%A6%E6%9C%80%E6%8E%A8%E8%8D%90.html
+
+
+# 2018年03月17日
+**肖威工作总结**
+- 上午：案例体系整理
+How To Build A Jobs Board In Rails 4
+https://www.youtube.com/watch?v=814gCeOpM4o&t=894s
+https://github.com/shenzhoudance/jobs_board
+
+- 下午：案例体系整理
+经历整理：
+
+Android
+峰瑞资本：代码家
+https://github.com/daimajia
+https://daimajia.com/
+
+薄荷：stormzhang
+https://github.com/stormzhang
+http://stormzhang.com/posts/
+
+Tikitoo：梁义发
+https://github.com/Tikitoo
+http://tiki.cat/
+http://tiki.cat/about-me/resume/
+
+Ruby on Rails
+chloerei
+https://github.com/chloerei/alipay
+
+ios
+唐巧
+https://github.com/tangqiaoboy
+
+Rails 路由全解
+https://ruby-china.github.io/rails-guides/routing.html
+- 晚上：案例体系整理
+https://bitcoinbook.info/whats-new/
