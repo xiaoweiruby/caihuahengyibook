@@ -2853,3 +2853,16 @@ Rails 路由全解
 https://ruby-china.github.io/rails-guides/routing.html
 - 晚上：案例体系整理
 https://bitcoinbook.info/whats-new/
+
+最终的端到端教程，用于在Ethereum中创建和部署完全分散的Dapp
+https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
+用Solidity构建您的首个以太坊智能合约 - 教程
+https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b
+使用Solidity，Truffle，Web3和Javascript教程dapp
+https://www.youtube.com/watch?v=9FYGSYZSJYg&t=416s
+周三早上我购买了域名techjobsin.london
+https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483
+终极中级Ruby on Rails教程：让我们创建一个完整的应用程序！
+https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f
+如何在30分钟内在Ruby on Rails，HTML和CSS中编写个人启动页面
+https://medium.com/@NeilP666/how-to-code-a-personal-splash-page-in-ruby-on-rails-html-css-in-30-mins-adcece00f456
