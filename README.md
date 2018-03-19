@@ -2866,3 +2866,11 @@ https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-
 https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f
 如何在30分钟内在Ruby on Rails，HTML和CSS中编写个人启动页面
 https://medium.com/@NeilP666/how-to-code-a-personal-splash-page-in-ruby-on-rails-html-css-in-30-mins-adcece00f456
+
+# 2018年03月19日
+**肖威工作总结**
+6/2 林長揚【知識淬煉：懶人包實作工作坊】
+- 上午：梳理个人简历
+https://www.first-tw.com/product/18gj_ws0602/
+- 下午：案例体系整理
+- 晚上：案例体系整理
