@@ -2874,3 +2874,4 @@ https://medium.com/@NeilP666/how-to-code-a-personal-splash-page-in-ruby-on-rails
 https://www.first-tw.com/product/18gj_ws0602/
 - 下午：案例体系整理
 - 晚上：案例体系整理
+![image](https://ws1.sinaimg.cn/large/006tKfTcgy1fphyct0rybj30qo0qojsx.jpg)
