@@ -2874,4 +2874,40 @@ https://medium.com/@NeilP666/how-to-code-a-personal-splash-page-in-ruby-on-rails
 https://www.first-tw.com/product/18gj_ws0602/
 - 下午：案例体系整理
 - 晚上：案例体系整理
-![image](https://ws1.sinaimg.cn/large/006tKfTcgy1fphyct0rybj30qo0qojsx.jpg)
+
+# 2018年03月20日
+**肖威工作总结**
+- 上午：梳理 wiki 案例
+
+Github Repo：
+https ：//github.com/shenzhoudance/wiki
+
+访问这个网站：https ：
+//xiaoweiwiki.herokuapp.com/
+
+- 下午：案例体系整理
+
+微信支付：开发准备与扫码支付
+https://ninghao.net/course/5726
+
+一个前端的nginx之旅
+https://blog.sesine.com/2017/01/24/front-end-use-nginx/
+
+九个集训周 - 360 小时的编程
+https://www.lewagon.com/%E7%A8%8B%E5%BA%8F
+
+- 晚上：案例体系整理
+
+# 2018年03月21日
+**肖威工作总结**
+- 上午：梳理案例体系
+- 下午：梳理案例体系
+- 晚上：梳理案例体系
+
+# 2018年03月22日
+**肖威工作总结**
+- 上午：梳理案例体系
+- 下午：职业访谈
+http://www.canyin88.com/zhuanlan/
+http://www.canyin88.com/zhuanlan/jiangyi/
+- 晚上：书籍阅读
