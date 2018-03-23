@@ -2911,3 +2911,27 @@ https://www.lewagon.com/%E7%A8%8B%E5%BA%8F
 http://www.canyin88.com/zhuanlan/
 http://www.canyin88.com/zhuanlan/jiangyi/
 - 晚上：书籍阅读
+
+# 2018年03月23日
+**肖威工作总结**
+- 上午：梳理案例体系
+
+（2）繁衍：
+
+女生靠追，还是靠吸引？
+
+https://www.zhihu.com/question/24507797/answer/347900987
+
+- 下午：案例体系梳理
+
+人生的三件事情：
+
+（1）生存：
+
+每个月都拿出一半工资学习 结果被公司辞退
+
+- 晚上：书籍阅读
+
+（3）传递：
+
+实力的提升
