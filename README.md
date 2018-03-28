@@ -2935,3 +2935,37 @@ https://www.zhihu.com/question/24507797/answer/347900987
 （3）传递：
 
 实力的提升
+
+# 2018年03月24日
+**肖威工作总结**
+- 上午：国家图书馆
+- 上午：简历撰写 + 案例梳理 + markdowm 修改
+- 上午：文案推送
+
+# 2018年03月25日
+**肖威工作总结**
+- 上午：案例梳理
+- 上午：案例梳理
+
+
+# 2018年03月26日
+**肖威工作总结**
+- 上午：muse 案例梳理 12
+- 上午：muse 案例梳理 12
+- 晚上：React Native 开发
+https://github.com/reactnativecn/react-native-guide
+
+https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f
+Build React Native Chat App In 30 Minutes
+https://www.youtube.com/watch?v=7Ot5LSGHLyY
+
+# 2018年03月27日
+**肖威工作总结**
+- 上午：修改简历
+- 上午：完善工作
+
+# 2018年03月28日
+**肖威工作总结**
+- 上午：demo_blog 案例梳理 1
+- 上午：demo_blog 案例梳理 1
+- 晚上：看tiwwter 案例梳理2
