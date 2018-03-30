@@ -2969,3 +2969,17 @@ https://www.youtube.com/watch?v=7Ot5LSGHLyY
 - 上午：demo_blog 案例梳理 1
 - 上午：demo_blog 案例梳理 1
 - 晚上：看tiwwter 案例梳理2
+
+# 2018年03月29日
+**肖威工作总结**
+- 上午：公众账号编辑
+http://md.ityouknow.com/
+
+- 上午：twitter 案例梳理 2
+- 晚上：twitter 案例梳理 2
+
+# 2018年03月30日
+**肖威工作总结**
+- 上午：梳理 twitter 的案例
+- 下午：整理 寂小桦 的简历
+- 晚上：案例 twitter 继续整理
