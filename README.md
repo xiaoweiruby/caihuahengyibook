@@ -2983,3 +2983,31 @@ http://md.ityouknow.com/
 - 上午：梳理 twitter 的案例
 - 下午：整理 寂小桦 的简历
 - 晚上：案例 twitter 继续整理
+
+# 2018年03月31日
+**肖威工作总结**
+- 上午：梳理 14 的案例
+- 下午：梳理 14 的案例
+- 晚上：梳理 14 的案例
+
+# 2018年04月01日
+**肖威工作总结**
+- 上午：梳理 14 的案例
+RailsConf 2017: React Native & Rails, A Single Codebase for Web & Mobile by Ben Dixon
+https://www.youtube.com/watch?v=Q66tYU6ni48
+- 下午：梳理 14 的案例
+- 晚上：梳理 14 的案例
+
+# 2018年04月02日
+**肖威工作总结**
+- 上午：梳理 15 的案例
+- 下午：梳理 15 的案例
+- 晚上：梳理 15 的案例
+
+# 2018年04月03日
+**肖威工作总结**
+- 上午：梳理 16 的案例
+- 下午：梳理 16 的案例
+https://www.youtube.com/watch?v=agzm_O-pZFE
+Codeplace | Build a Ruby on Rails Admin Panel using rails_admin gem
+- 晚上：梳理 16 的案例
