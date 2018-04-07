@@ -3011,3 +3011,42 @@ https://www.youtube.com/watch?v=Q66tYU6ni48
 https://www.youtube.com/watch?v=agzm_O-pZFE
 Codeplace | Build a Ruby on Rails Admin Panel using rails_admin gem
 - 晚上：梳理 16 的案例
+
+# 2018年04月04日
+**肖威工作总结**
+- 上午：梳理 自己 的简历
+- 下午：跟谁学 拜访
+
+# 2018年04月05日
+**肖威工作总结**
+- 上午：案例 job 梳理
+- 下午：案例 music 梳理
+
+# 2018年04月06日
+**肖威工作总结**
+- 上午：案例 job 梳理
+- 下午：案例 music 梳理
+
+Ruby on Rails教程完整示例课程（Rails 5）
+https://www.youtube.com/watch?v=N-4NuoivKu0
+
+Rails Portfolio Project: Making Skin Care
+https://www.youtube.com/watch?v=t7a3rZ1mtRw
+
+银行应用程序与Rails 5 + haml + API +揭示模式+命令模式
+https://www.youtube.com/watch?v=saAKNtUg-44
+
+How To Build A Rails 5 App in 57 min
+https://www.youtube.com/watch?v=34aNWGDCQ9E&t=548s
+
+CourseHack
+https://www.youtube.com/user/coursehack/videos
+
+AWS EC2简介 - 如何首次将Rails应用程序部署到EC2
+https://www.youtube.com/watch?v=jFBbcleSPoY
+
+使用Stripe，Devise和Ruby on Rails进行订阅付款
+https://www.youtube.com/watch?v=hyEsiwc0ys4&t=20s
+
+通过Stripe支付处理学习Ruby on Rails电子商务网站
+https://www.youtube.com/watch?v=K-l2XhRyVEo&t=2039s
