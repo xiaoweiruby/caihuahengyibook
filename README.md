@@ -3063,3 +3063,42 @@ https://www.youtube.com/channel/UCi9Mf3veSDDIMdGGtPmPu1g/videos
 
 Devise: Questions and Answers
 https://books.google.com.hk/books?id=8RJTDwAAQBAJ&pg=PT286&lpg=PT286&dq=link_to+%27delete%27,+article+path(article),+method:+:Delete,+data:+%7Bconfirm:+%27are+you+sure?%27%7D&source=bl&ots=4WlF6xsVhd&sig=Q0J0ZyIUzPqfKnbwJVMAiJMHGOc&hl=zh-CN&sa=X&ved=0ahUKEwjf4azIoKjaAhXDoJQKHU46AVYQ6AEIUDAE#v=onepage&q=link_to%20'delete'%2C%20article%20path(article)%2C%20method%3A%20%3ADelete%2C%20data%3A%20%7Bconfirm%3A%20'are%20you%20sure%3F'%7D&f=false
+
+# 2018年04月08日
+**肖威工作总结**
+- 上午：案例 barbieblog 梳理
+- 下午：案例 barbieblog 梳理
+
+# 2018年04月09日
+**肖威工作总结**
+- 上午：案例 barbieblog 梳理
+- 下午：案例 barbieblog 梳理
+
+# 2018年04月10日
+**肖威工作总结**
+- 上午：案例 barbieblog 梳理
+- 下午：案例 barbieblog 梳理
+
+# 2018年04月11日
+**肖威工作总结**
+- 上午：案例 job board payment 梳理
+Build A Travel Agency Theme With Materialize CSS 1.0.0
+https://www.youtube.com/watch?v=MaP3vO-vEsg
+
+- 下午：案例 job board payment 梳理
+
+# 2018年04月12日
+**肖威工作总结**
+- 上午：案例 job board payment 梳理
+- 下午：币乎 200 强 关注，完成文章的币乎迁移。
+- 晚上：查看 学习以太坊 案例的实践
+
+https://github.com/shenzhoudance/ethereum
+
+ico
+https://www.youtube.com/channel/UCi9Mf3veSDDIMdGGtPmPu1g
+
+Ruby on Rails 從頭開始
+https://love2.io/@funkkiid/doc/rails-practice/Chapter_5/5.2.md
+课程参考 ui
+https://www.learningtub.com/?s=ruby
