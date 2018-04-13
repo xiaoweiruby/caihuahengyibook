@@ -3102,3 +3102,8 @@ Ruby on Rails 從頭開始
 https://love2.io/@funkkiid/doc/rails-practice/Chapter_5/5.2.md
 课程参考 ui
 https://www.learningtub.com/?s=ruby
+
+https://www.ctolib.com/docs-rails-practice-c-Chapter_5-5-2.html
+
+申请以及集成 Stripe 的 Alipay 支付方案
+http://www.beansmile.com/blog/posts/stripe-alipay
