@@ -3150,3 +3150,14 @@ https://www.ctolib.com/docs-rails-practice-c-Chapter_5-5-2.html
 
 申请以及集成 Stripe 的 Alipay 支付方案
 http://www.beansmile.com/blog/posts/stripe-alipay
+
+
+# 2018年4月17日
+**肖威工作总结**
+下午：Rails 快速入门
+http://wdxtub.com/2016/06/17/rails-quick-guide/
+https://kelby.gitbooks.io/rails-beginner-s-guide/content/activejob/
+ionic 中 如何让使用支付宝和微信支付插件 来完成支付功能
+http://docoder.com/ionic-%E4%B8%AD-%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%BF%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%8F%92%E4%BB%B6-%E6%9D%A5%E5%AE%8C%E6%88%90%E6%94%AF%E4%BB%98/
+对订单支付的理解
+http://an-lee.pro/2017/02/15/2017-02-15-understand_code_of_payment/
