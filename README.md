@@ -3236,3 +3236,21 @@ https://speakerdeck.com/xdite/quan-zhan-ban-bi-ye-zeng-yu
 - 晚上：思维的提升
 游戏人生的真正意义Gamming
 https://www.youtube.com/watch?v=BWvOnhfE_a0
+
+
+做自己论坛的解读：
+2012 第一届 古典《做现实的理想主义者》
+http://www.iqiyi.com/v_19rrkh6gpc.html#vfrm=3-2-bee-1&curid=429976700_fefb92404201073407479b3752ec690e
+2013 第二届 古典《给现实加点理想》
+http://www.iqiyi.com/v_19rrkh4vrw.html#vfrm=3-2-bee-1&curid=429985200_8f539c0aca2327107efebf4ff8cb5108
+2014 第三届 秋叶《微树洞，控微信》
+http://www.iqiyi.com/v_19rrkh6o9g.html#vfrm=3-2-bee-1&curid=429971000_208610d110cba72b06bd9c1844fe3065
+2015 第四届 吴建华《+5的教育梦想》
+http://www.iqiyi.com/v_19rrkh4m94.html#vfrm=3-2-bee-1&curid=430005700_8fb79e41adbd6f094c5fa844553417e6
+2016 第五届 李笑来：七年就是一辈子
+http://www.iqiyi.com/v_19rrkh4djg.html#vfrm=3-2-bee-1&curid=430008800_97f9f7807b0f7b5ad343f519f5f27044
+2017 第六届：郑伊廷：幸福的公式
+http://www.iqiyi.com/v_19rr9w4buo.html
+2018 第七届：樊登：当我们谈阅读，到底在读什么
+http://www.iqiyi.com/v_19rrft4xlo.html#vfrm=3-2-bee-1&curid=915385200_973f7d85ce0f9a32625147cef5a4bb01
+2019 第八届：肖威：区块链如何改变世界
