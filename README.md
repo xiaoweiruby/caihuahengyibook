@@ -3262,3 +3262,14 @@ http://www.iqiyi.com/v_19rr9w4buo.html
 http://www.iqiyi.com/v_19rrft4xlo.html#vfrm=3-2-bee-1&curid=915385200_973f7d85ce0f9a32625147cef5a4bb01
 
 - 2019 第八届：肖威：区块链如何改变世界
+（1）区块链的时间发展（代码家）
+https://daimajia.com/2018/02/10/blockchain-share-in-freesfund
+http://gitbook.cn/books/5964e0dd5ea3891e8f3e7b57/index.html
+（2）区块链的技术构成结构（交易所 otcbtc + 应用 press.one + 代币 ico）
+https://www.jianshu.com/p/e0cc004ffbf3
+（3）如何完成区块链行业的从业（郑伊廷）
+
+梳理 郑伊廷 otcbtc 的发展进程
+2017.9.4 ico.Info,被关停；
+2017.9.20 购买 otcbtc 的域名；剛剛用便宜的價格買到一個黃金域名......
+2017.9.27 今天作一个交易介面。写到自己都要感动掉泪了
