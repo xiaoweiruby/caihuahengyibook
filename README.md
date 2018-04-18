@@ -3161,3 +3161,73 @@ ionic 中 如何让使用支付宝和微信支付插件 来完成支付功能
 http://docoder.com/ionic-%E4%B8%AD-%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%BF%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E5%92%8C%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%8F%92%E4%BB%B6-%E6%9D%A5%E5%AE%8C%E6%88%90%E6%94%AF%E4%BB%98/
 对订单支付的理解
 http://an-lee.pro/2017/02/15/2017-02-15-understand_code_of_payment/
+
+
+# 2018年04月18日
+**肖威工作总结**
+- 上午：思考公司运作的核心
+- 下午：查看 Ruby China 的 发展；
+https://speakerdeck.com/huacnlee/ruby-china-bei-hou-de-gu-shi
+Ruby China背后的故事
+
+https://speakerdeck.com/huacnlee/ruby-ru-men-di-ke
+如何快速正确的安装 Ruby，Rails 运行环境；
+https://ruby-china.org/wiki/install_ruby_guide
+如何从零开始学会 Ruby on Rails？
+https://ruby-china.org/wiki/start_leaning_rails
+Rails 官方指南中文
+http://guides.ruby-china.org
+ruby ppt
+https://speakerdeck.com/search?utf8=%E2%9C%93&q=ruby
+
+如何在PayPal中设置周期性付款
+https://www.youtube.com/watch?v=36kR02-8oac
+
+
+为什么我每天读一本书（以及为什么你也应该这样做）：33％的法则 Tai Lopez | TEDxUBIWiltz
+https://www.youtube.com/watch?v=7bB_fVDlvhc
+
+
+郑伊廷的思维结构
+（1）思想：做自己，刻苦努力比不上可以努力，以及做自己；2016年12月17日
+https://speakerdeck.com/xdite/di-liu-jie-zuo-zi-ji-lun-tan-xdite-zheng-yi-ting
+（2）技术：分享会，上idea，补coding；2016年9月24日
+https://speakerdeck.com/xdite/refactoring-lesson-from-gpa-1-dot-4-to-gpa-3-dot-0
+（3）毕业赠言：不断的学习；2016年9月15日
+https://speakerdeck.com/xdite/quan-zhan-ban-bi-ye-zeng-yu
+
+我们教授了几个重要的原则
+- landing page（挖掘价值）
+- user story与项目管理（管理优先权）
+- 技术实践（肌肉学习法）
+- 协作（如何与同事协作）
+- onboarding（传递价值）
+
+毕业后我希望你们继续做的事
+- 学习时，把错误笔记抄下来；
+- 每周写周记
+- after actin review
+- 学习，学习，在学习
+
+技术很重要，但是也不重要；
+- 不要去陷入争论
+- 不要抢先去追求技术
+- 而是要抢先去解决问题
+- 然后再去思索可以怎样，不去解决问题
+- 全栈思维很重要，如何思索全局更重要；
+
+我很羡慕你们，我找到了方法，但是我已经不再起点；
+
+我希望你们在 33 岁的时候，比现在的我更加的优秀；
+
+谢谢大家；
+
+还是要讲一点技术的推广
+- http://confreaks.com
+- http://railsconf.com
+- http://railsweekly.com
+- http://bit.ly/red-intro.com
+
+- 晚上：思维的提升
+游戏人生的真正意义Gamming
+https://www.youtube.com/watch?v=BWvOnhfE_a0
