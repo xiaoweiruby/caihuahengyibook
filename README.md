@@ -3188,12 +3188,17 @@ https://www.youtube.com/watch?v=36kR02-8oac
 https://www.youtube.com/watch?v=7bB_fVDlvhc
 
 
-郑伊廷的思维结构
-（1）思想：做自己，刻苦努力比不上可以努力，以及做自己；2016年12月17日
+# 郑伊廷的思维结构
+- （1）思想：做自己，刻苦努力比不上可以努力，以及做自己；2016年12月17日
+
 https://speakerdeck.com/xdite/di-liu-jie-zuo-zi-ji-lun-tan-xdite-zheng-yi-ting
-（2）技术：分享会，上idea，补coding；2016年9月24日
+
+- （2）技术：分享会，上idea，补coding；2016年9月24日
+
 https://speakerdeck.com/xdite/refactoring-lesson-from-gpa-1-dot-4-to-gpa-3-dot-0
-（3）毕业赠言：不断的学习；2016年9月15日
+
+- （3）毕业赠言：不断的学习；2016年9月15日
+
 https://speakerdeck.com/xdite/quan-zhan-ban-bi-ye-zeng-yu
 
 我们教授了几个重要的原则
