@@ -3262,14 +3262,60 @@ http://www.iqiyi.com/v_19rr9w4buo.html
 http://www.iqiyi.com/v_19rrft4xlo.html#vfrm=3-2-bee-1&curid=915385200_973f7d85ce0f9a32625147cef5a4bb01
 
 - 2019 第八届：肖威：区块链如何改变世界
-（1）区块链的时间发展（代码家）
+
+- （1）区块链的时间发展（代码家）
 https://daimajia.com/2018/02/10/blockchain-share-in-freesfund
 http://gitbook.cn/books/5964e0dd5ea3891e8f3e7b57/index.html
-（2）区块链的技术构成结构（交易所 otcbtc + 应用 press.one + 代币 ico）
+
+- （2）区块链的技术构成结构（交易所 otcbtc + 应用 press.one + 代币 ico）
 https://www.jianshu.com/p/e0cc004ffbf3
-（3）如何完成区块链行业的从业（郑伊廷）
+
+- （3）如何完成区块链行业的从业（郑伊廷）
 
 梳理 郑伊廷 otcbtc 的发展进程
 2017.9.4 ico.Info,被关停；
 2017.9.20 购买 otcbtc 的域名；剛剛用便宜的價格買到一個黃金域名......
 2017.9.27 今天作一个交易介面。写到自己都要感动掉泪了
+2017年10月17日 OTCBTC https://t.co/QwwlU3tasv将会早上在2017年10月26日10:00（台北时间）正式上线敬请。期待！
+2017.12.12 Token Summit 2017 直播笔记 https://www.jianshu.com/p/079dc4035498
+2017.12.23 OTCBTC TOKEN 兑换活动成功结束
+2018/01/07(周日) GrowthHack 這樣做（ 2018 實戰版）
+
+基本原則就是：
+
+1. 創業本質就是一種投機行為。
+2. 所謂投機是在時代大變的時候，發展出替代產品，找到取代效率更高的解法。
+3. 所謂的好解法，必須要比舊解法一次好上十倍。
+4. 解法的本質是「Jobs to be Done」。人們雇用你做什麼。
+5. 節制，克制，別去做你那些不擅長沒有辦法一次比舊有選擇好十倍的項目。
+
+＝＝＝＝＝＝＝＝
+
+1. 你的對手與別人無關，你的對手永遠只有自己。
+2. 客戶永遠是對的。馬上改，今天改，瞬間改。
+3. 永遠作自己產品的用戶。
+4. 每週一個指揮官任務。週週重做 Onboarding。
+5. 抓到自己產品最核心的指標與核心用戶，讓他們找不到替代品。
+6. 讓用戶養成習慣，習慣，習慣。
+7. 忍著別想大規模曝光，一切都到 NPS 70 以後再說。
+8. 用戶愛上你比打什麼廣告都有效。
+9. Intercom / Zendesk 是很便宜的工具，裝了等於挖不完的金礦。
+10. 打造 Referral Loop。
+
+---
+然后如果在台湾的人要想做 ICO 或 ICS。建议从 10000 ETH - 60000 ETH 为目标（我个人觉得台湾公司要玩10万 ETH以上，以及找接盘侠有点难）（其实不是有点难，是接近不可能）。以这种规模设计向世界募。然后去做法律架构以及白皮书以及蓝图。
+
+不要搞那种 1000-6000 ETH的，都不知道谁要跟你玩，还有怎么撑的起整个经济体。然后找好一点的跨国律师帮你做架构。。。
+
+然后。建议你找完律师再来找我谈。。。。。不要一开始就来找我。
+
+BTW。我也不是什么专家。帮忙做过超过 20 个 ICO 而已。我的话听听就好。
+
+https://medium.com/startup-grind/what-s-a-coo-do-bbeb0f8648ee
+https://railsconf.com/sponsors
+https://github.com/xdite/yc-investor-school
+https://investor.startupschool.org/
+給網站初學者的建議：用 RUBY ON RAILS 非常辛苦，用 PHP 非常舒服
+http://blog.turn.tw/?p=2881
+Yi-Ting Cheng 鄭伊廷
+https://ioh.tw/talks/%E4%B8%AD%E5%A4%AE%E4%BC%81%E7%AE%A1%E7%B3%BB-%E9%84%AD%E4%BC%8A%E5%BB%B7-yi-ting-cheng-tw-study-ncu-bde/
