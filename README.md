@@ -3319,3 +3319,17 @@ https://investor.startupschool.org/
 http://blog.turn.tw/?p=2881
 Yi-Ting Cheng 鄭伊廷
 https://ioh.tw/talks/%E4%B8%AD%E5%A4%AE%E4%BC%81%E7%AE%A1%E7%B3%BB-%E9%84%AD%E4%BC%8A%E5%BB%B7-yi-ting-cheng-tw-study-ncu-bde/
+
+# 2018年04月19日
+**肖威工作总结**
+- 上午：提升技术实力
+会议
+https://www.youtube.com/results?search_query=ruby+on+rails+conf
+https://www.youtube.com/watch?v=dAUGPzBUsq8&list=UUb_zIPzCFNfxtO1bHhqEM4w
+技术
+https://www.youtube.com/channel/UCxJaNyXCQw0mghY0hA1wA9w/videos
+思想
+https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg/videos
+原型
+https://www.lewagon.com/demoday/124
+- 下午：提升技术实力
