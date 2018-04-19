@@ -3333,3 +3333,23 @@ https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg/videos
 原型
 https://www.lewagon.com/demoday/124
 - 下午：提升技术实力
+思想体系：书籍
+http://www.yabook.org/jingjiguangli/
+技术提升：案例
+2016年6月- 2016年8月
+http://www.papaye.co
+http://papaye.herokuapp.com ▲
+http://www.sunshine.rocks/
+http://www.lovee.io/
+2016年7月至9月期间
+http://www.homebug.uk
+2016年10月至12月期间
+http://on-top.herokuapp.com/
+http://www.strideworld.com/ ▲
+2016年10月至12月期间
+http://www.muustachio.com
+http://meet-scout.herokuapp.com/
+http://www.dantera.org/▲
+2017年1月至3月期间
+DeskJoy 租聘办公场地
+Socialive：https://www.lewagon.com/demoday/54/socialive
