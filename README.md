@@ -3279,7 +3279,15 @@ https://www.jianshu.com/p/e0cc004ffbf3
 2017年10月17日 OTCBTC https://t.co/QwwlU3tasv将会早上在2017年10月26日10:00（台北时间）正式上线敬请。期待！
 2017.12.12 Token Summit 2017 直播笔记 https://www.jianshu.com/p/079dc4035498
 2017.12.23 OTCBTC TOKEN 兑换活动成功结束
+2017.12.31 郑伊廷和李笑来撕逼
 2018/01/07(周日) GrowthHack 這樣做（ 2018 實戰版）
+2018.1.15 上线yowyow代币交易
+2018.1.17 发布 otcbtc ios
+2018.1.22 上线 ddd
+2018.2.2 回应李笑来事宜
+2018.2.14 如何设计一个 ico
+2018.2.18 入门区块链投资与鉴别机会
+
 
 基本原則就是：
 
@@ -3353,3 +3361,12 @@ http://www.dantera.org/▲
 2017年1月至3月期间
 DeskJoy 租聘办公场地
 Socialive：https://www.lewagon.com/demoday/54/socialive
+
+# 2018年04月20日
+**肖威工作总结**
+- 上午：梳理 otcbtc 发展史时间线
+查看 otcbtc 和 bihu 白皮书
+- 下午：梳理 otcbtc 发展史结果线
+- 晚上：查看 ICO 的发行代币的流程
+
+现在可以完成代笔的购买，代币的转移，代币的交易，代币的发放；
