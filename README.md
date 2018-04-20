@@ -3369,4 +3369,11 @@ Socialive：https://www.lewagon.com/demoday/54/socialive
 - 下午：梳理 otcbtc 发展史结果线
 - 晚上：查看 ICO 的发行代币的流程
 
-现在可以完成代笔的购买，代币的转移，代币的交易，代币的发放；
+现在可以完成代币的购买，代币的转移，代币的交易，代币的众筹，代币的发放；
+
+【教程】5分钟在以太坊上发行自己的代币
+http://wangmengqi.logdown.com/posts/2473648-tutorial-workshop-on-smart-contracts-issued-tokens
+一步步教你创建自己的数字货币（代币）进行ICO
+https://learnblockchain.cn/2018/01/12/create_token/
+代币创建教程
+https://ethfans.org/topics/118
