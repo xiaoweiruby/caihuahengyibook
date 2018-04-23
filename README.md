@@ -3377,3 +3377,74 @@ http://wangmengqi.logdown.com/posts/2473648-tutorial-workshop-on-smart-contracts
 https://learnblockchain.cn/2018/01/12/create_token/
 代币创建教程
 https://ethfans.org/topics/118
+
+# 2018年04月21日
+**肖威工作总结**
+- 上午：区块链理论基础
+https://www.jianshu.com/u/03c830c97ebc
+- 下午：区块链理论基础
+QYB 的学习；
+1-钱包
+粽子钱包教程 ——第一个区块链学习社区代币QYB钱包教程
+https://www.jianshu.com/p/efb8a956274e
+2-转币
+粽子钱包QYB使用教程
+https://www.jianshu.com/p/9299da8e1bb0
+3-挖币
+Mac端接入qyb矿池的安装说明
+https://www.jianshu.com/p/ddf5fa331bb2
+答：QYB为区块链研习社后续社区运营的代币，
+QYB下载地址：https://pan.baidu.com/s/1nuM4ZMD 密码：qou1
+下载的压缩包里有QYB的使用文档
+
+第十一篇 QYB（屈原币）和KEY（币乎）的对比分析！
+https://www.jianshu.com/p/a8ae955197b5
+重走比特币之路——区块链研习社QYB用户群2018.4.08晚间大讨论内容复盘
+https://www.jianshu.com/p/6a0b75ca7ef6
+
+第二十二篇 超级数字力课程第二天回顾及总结
+https://www.jianshu.com/p/96c0a4300af3
+以太坊智能合约去中心化方式红包的实现
+https://www.jianshu.com/u/03c830c97ebc
+
+
+钱包、矿场、币须说、QYB；北京分享社；
+
+
+
+（3）全栈人才的培训体系；
+
+# 肖威：区块链重塑世界
+
+## 我是谁，我在做什么，我们应该如何做？
+
+- 肖威，才华横溢科技创始人，区块链全栈工程师
+
+- Ruby on Rails 全栈应用工程师培训：
+  教授大家学习网页端、移动端应用开发；
+
+- Block Chain 区块链全栈工程师培训：
+  理论，发币、钱包、转币、应用；
+
+## 我对于区块链的认知？
+
+- 区块链取代互联网；
+（1）代币 （2）应用 （3）交易所
+
+- 案例：
+QYB、ivery.one、otcbtc
+
+- 共识机制：
+认可其中的价值
+
+## 我们应该如何做；
+- （1）应用
+**制作应用：**
+[1]发币 [2]应用 [3]转币
+- （2）投资
+**投资模型：**
+区块链模型：领袖、技术、交易、社区、人才；
+区块链应用时代：EOS如何破局，BTC/ETH/EOS
+- （3）分享
+**疑问答疑**
+解决发币和钱包的问题？共识机制
