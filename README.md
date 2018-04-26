@@ -3448,3 +3448,20 @@ QYB、ivery.one、otcbtc
 - （3）分享
 **疑问答疑**
 解决发币和钱包的问题？共识机制
+
+
+# 2018年04月26日
+**肖威工作总结**
+- 上午：整理思维体系大纲，明确发展的方向
+- 下午：添加 区块链 500 强媒体，查看 dapp 的开发的过程；
+100 Days of Dapps
+https://agermanidis.github.io/100daysofdapps/#/
+- 晚上：继续查看 dapp 的开发的逻辑；
+以太坊开发者研讨会
+https://www.garysguide.com/events/u10115q/Ethereum-Developer-Workshop-For-Beginners
+教程 | 以太坊开发演练，Part-1：智能合约
+https://ethfans.org/posts/ethereum-development-walkthrough-part-1-smart-contracts
+Ethereum Devcon3 浓缩精华版 - 钱包与 Dapp 开发
+https://ethfans.org/zzzhang/articles/665
+以太坊开发入门，完整入门篇（小白可以看看，高手看看自己有没有遗漏的）
+http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html
