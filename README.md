@@ -3465,3 +3465,21 @@ Ethereum Devcon3 浓缩精华版 - 钱包与 Dapp 开发
 https://ethfans.org/zzzhang/articles/665
 以太坊开发入门，完整入门篇（小白可以看看，高手看看自己有没有遗漏的）
 http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html
+
+# 2018年04月27日
+**肖威工作总结**
+- 上午：完成妇女联合会的项目申报
+- 下午：查看 dapp 的开发的教程
+DApp - 区块链应用
+https://zhuanlan.zhihu.com/dappreview
+僵尸工厂课程体系
+https://cryptozombies.io/zh/course
+Dapps，网络和游戏开发商。对AI，区块链和智能合约感兴趣。
+https://hackernoon.com/@dev_zl
+- 晚上：完成 dapp 的课程提低
+用移动钱包参与BlockParty事件
+https://medium.com/@makoto_inoue/participating-blockparty-event-with-a-mobile-wallet-b6b9123246f7
+以太坊阅读清单对于未来的Dapp开发者
+https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
+如何在基于以太坊的dapps中添加对礼品卡的支持
+https://medium.freecodecamp.org/how-to-add-support-for-gift-cards-on-your-ethereum-based-dapps-6389959265ba
