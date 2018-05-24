@@ -3483,3 +3483,40 @@ https://medium.com/@makoto_inoue/participating-blockparty-event-with-a-mobile-wa
 https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
 如何在基于以太坊的dapps中添加对礼品卡的支持
 https://medium.freecodecamp.org/how-to-add-support-for-gift-cards-on-your-ethereum-based-dapps-6389959265ba
+
+# 2018年05月02日
+**肖威工作总结**
+区块链全栈工程师课程体系开发
+- 上午：web app 开发
+>Ruby on Rails 中心化案例教学
+后端 + 前端 + 设计 + 支付 + 部署
+轨道上的红宝石：视频，音频和图像上传器
+https://www.youtube.com/watch?v=hD3eld5bevI
+
+- 中午：web adpp 开发
+web3 + metamask + ethereum/IPFS/EOS 去中心化案例教学
+>后端 + 前端 + 设计 + 支付 + 部署
+（1) 智能合约的打造（发币-交易-转币）
+（2）交易所的打造 & 应用体系的打造
+（3）整条生态的打造（ethereum & eos）
+
+- 下午：自媒体 & 求职 & 创业 & 投资 指导
+>（1）自媒体：（开放平台，闭合平台，国内平台，国外平台）
+（2）求职：模块化思维（自己需要什么，自己有什么，公司需要什么，完成对接）
+（3）创业：财务化思维（公司运作，公司运营，公司管理）
+（4）投资：置产的置换（低资产完成高资产的时间置换）
+
+- 晚上：公司化推荐
+>（1）生态化公司推荐:(Ethereum/EOS)
+（2）交易所公司推荐：BIG.ONE/TOP.ONE
+（3）区块链应用公司推荐：(币乎、知币)
+（4）区块链媒体公司推荐：（布洛克财经）
+（5）区块链社群公司推荐：（Hiblock）
+
+# 2018年05月24日
+
+**肖威工作总结**
+- 上午：整理黑客马拉松工具箱
+https://bihu.com/article/467431
+- 下午：整理星云链开发指南
+ttps://ruterly.com
