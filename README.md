@@ -3520,3 +3520,7 @@ web3 + metamask + ethereum/IPFS/EOS 去中心化案例教学
 https://bihu.com/article/467431
 - 下午：整理星云链开发指南
 ttps://ruterly.com
+
+# 2018年06月01日
+Sketch App教程 - 在Sketch中设计一个简单的登陆页面
+https://www.youtube.com/watch?v=Q8t4j9xXg5c
