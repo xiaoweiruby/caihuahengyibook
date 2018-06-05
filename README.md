@@ -3576,3 +3576,9 @@ http://qiaoyu-blog.logdown.com/posts/1913563
 
 如何使用CSS网格创建网站布局| 学习HTML和CSS | HTML教程
 https://www.youtube.com/watch?v=HgwCeNVPlo0
+
+# 2018年06月05日
+
+- 上午：梳理小墨与阿猴的视频课程
+- 下午：整理前端的技术实现
+- 晚上：整理前端的技术框架
