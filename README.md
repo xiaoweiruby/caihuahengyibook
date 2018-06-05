@@ -3558,3 +3558,21 @@ https://www.youtube.com/watch?v=Q8t4j9xXg5c
 # 6、利润的价值分配
 
 产品运营的时间越长，用户的人群越多，最终完成的利润的额度，也会变得相对的稳定和自如；
+
+Rails Girls Weekly - 從零開始的網頁設計- HTML & CSS 的基礎 (1/4)
+https://www.youtube.com/watch?v=5zPtNDaHzpo&t=178s
+
+哈哈哈 2/4 因爲收音問題，影片是沒有聲音的，所以沒有提供影片唷😆 提供你簡報檔練習
+https://drive.google.com/file/d/0B9ec3KX79mC5RC1JMUg1VVlaZXc/view
+
+Rails Girls Weekly - 從零開始的網頁設計- HTML & CSS 的基礎 (3/4)
+https://www.youtube.com/watch?v=dUbge2uZ3N4&t=2s
+
+Rails Girls Weekly - 從零開始的網頁設計- HTML & CSS 的基礎 (4/4)
+https://www.youtube.com/watch?v=-MBL1kQGTo4&t=3548s
+
+HTML／CSS 前端实作 巧教程
+http://qiaoyu-blog.logdown.com/posts/1913563
+
+如何使用CSS网格创建网站布局| 学习HTML和CSS | HTML教程
+https://www.youtube.com/watch?v=HgwCeNVPlo0
